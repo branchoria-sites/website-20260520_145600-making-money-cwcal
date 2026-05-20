@@ -282,7 +282,7 @@ next_link:
   title: Internal Linking | Making Money From Creating Websites Containing Aff
   permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-internal-l-d8b176/
   short_title: Internal Linking
-date: '2026-05-20 14:51:24 '
+date: '2026-05-20 21:56:44 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11-overview-social.png
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11-overview.png
@@ -620,17 +620,17 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Stay+Legal+%26+Compliant+by+Attila+O%27Dree&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stay Legal &amp; Compliant on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/5623f9d8e17182da9122.jpg' | relative_url }}" alt="Cover for Stay Legal &amp; Compliant" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/039c77f0cf6595c692e8.jpg' | relative_url }}" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        
+        <p class="fr-book-fit">Direct pick &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Stay+Legal+%26+Compliant+by+Attila+O%27Dree&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stay Legal &amp; Compliant">Stay Legal &amp; Compliant</a>
+          <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
         </h4>
-        <p class="fr-book-author">By Attila O&#x27;Dree</p>
+        <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-        <p class="fr-book-desc">Ready to build a profitable and lasting affiliate marketing business? Many people think affiliate marketing is a get-rich-quick scheme, b...</p>
+        <p class="fr-book-desc">Directly covers affiliate marketing fundamentals, traffic generation, monetisation, niches, and building affiliate websites.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Stay+Legal+%26+Compliant+by+Attila+O%27Dree&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -638,17 +638,17 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Start+Making+Money+Online+Colvin+Tonya+Nyakundi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Start Making Money Online on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/41f91d1ff55a12de4ac6.jpg' | relative_url }}" alt="Cover for How to Start Making Money Online" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/e4acbeb4395006515fc0.jpg' | relative_url }}" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        
+        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Start+Making+Money+Online+Colvin+Tonya+Nyakundi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Start Making Money Online">How to Start Making Money Online</a>
+          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
         </h4>
-        <p class="fr-book-author">By Colvin Tonya Nyakundi, John Davidson</p>
+        <p class="fr-book-author">By Russell Brunson</p>
         
-        <p class="fr-book-desc">Table of Contents Introduction Where to Make Money Online Blogging Creating websites and search engine optimization Affiliate marketing D...</p>
+        <p class="fr-book-desc">Useful for understanding conversion funnels, offer structure, landing pages, and monetising traffic from affiliate sites.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Start+Making+Money+Online+Colvin+Tonya+Nyakundi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -656,35 +656,17 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+Privacy+and+GDPR+Compliance+in+Digital+Marketing+by+Mayfair+Digital+Agency&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data Privacy and GDPR Compliance in Digital Marketing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/0e378ea99b611a4c2bd4.jpg' | relative_url }}" alt="Cover for Data Privacy and GDPR Compliance in Digital Marketing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traffic Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/aad589469e9a3c293c37.jpg' | relative_url }}" alt="Cover for Traffic Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        
+        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Data+Privacy+and+GDPR+Compliance+in+Digital+Marketing+by+Mayfair+Digital+Agency&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data Privacy and GDPR Compliance in Digital Marketing">Data Privacy and GDPR Compliance in Digital Marketing</a>
+          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traffic Secrets">Traffic Secrets</a>
         </h4>
-        <p class="fr-book-author">By Mayfair Digital Agency</p>
+        <p class="fr-book-author">By Russell Brunson</p>
         
-        <p class="fr-book-desc">&quot;Data Privacy and GDPR Compliance in Digital Marketing&quot; is a comprehensive guide that delves into the crucial intersection of data privac...</p>
+        <p class="fr-book-desc">Highly relevant for affiliate websites because traffic acquisition is central to monetisation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Data+Privacy+and+GDPR+Compliance+in+Digital+Marketing+by+Mayfair+Digital+Agency&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Personalized+Digital+Advertising+Diaz+Nesamoney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Personalized Digital Advertising on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/4b611a9a1aca8917f5d1.jpg' | relative_url }}" alt="Cover for Personalized Digital Advertising" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Personalized+Digital+Advertising+Diaz+Nesamoney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Personalized Digital Advertising">Personalized Digital Advertising</a>
-        </h4>
-        <p class="fr-book-author">By Diaz Nesamoney</p>
-        
-        <p class="fr-book-desc">First published 2015. Subjects: Digital media, Advertising, Internet advertising, Internet marketing, Web sites, design.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Personalized+Digital+Advertising+Diaz+Nesamoney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -721,16 +703,16 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Versatile Office Privacy Sign - 5&quot; Acrylic with Easy Status Change Options"><img src="{{ '/assets/images/marketplace-covers/70024030236411cbecdc.jpg' | relative_url }}" alt="Listing image for Versatile Office Privacy Sign - 5&quot; Acrylic with Easy Status Change Options" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/b61377085cf161584ef2.jpg' | relative_url }}" alt="Listing image for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Versatile Office Privacy Sign - 5&quot; Acrylic with Easy Status Change Options</a>
+          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
         </h4>
-        <p class="fr-book-author">New | safeshopping365 (99.5% positive)</p>
-        <p class="fr-book-popularity">USD 25.19 | Free shipping | US</p>
+        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
+        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on eBay
           </a>
         </div>
@@ -738,16 +720,16 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Plastic Private Privacy Sign Plaque Office or Home Décor Mount To Door Or Wall"><img src="{{ '/assets/images/marketplace-covers/179e924728b4ffd0cbab.jpg' | relative_url }}" alt="Listing image for Plastic Private Privacy Sign Plaque Office or Home Décor Mount To Door Or Wall" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor"><img src="{{ '/assets/images/marketplace-covers/1599f6e6909fda64c35b.jpg' | relative_url }}" alt="Listing image for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Plastic Private Privacy Sign Plaque Office or Home Décor Mount To Door Or Wall</a>
+          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor</a>
         </h4>
-        <p class="fr-book-author">New | pongking22 (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 14.99 | Free shipping | US</p>
+        <p class="fr-book-author">New | blumics (97.1% positive)</p>
+        <p class="fr-book-popularity">USD 10.00 | Free shipping | US</p>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on eBay
           </a>
         </div>
@@ -755,16 +737,16 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3 Pcs Privacy Sign - Vacant Occupied Door Indicator for Home, Office, Bathroom"><img src="{{ '/assets/images/marketplace-covers/a01367eced926c992874.jpg' | relative_url }}" alt="Listing image for 3 Pcs Privacy Sign - Vacant Occupied Door Indicator for Home, Office, Bathroom" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/cc4538a680050cd19985.jpg' | relative_url }}" alt="Listing image for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">3 Pcs Privacy Sign - Vacant Occupied Door Indicator for Home, Office, Bathroom</a>
+          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D</a>
         </h4>
-        <p class="fr-book-author">New | teq-31 (100.0% positive)</p>
-        <p class="fr-book-popularity">USD 29.99 | Free shipping | US</p>
+        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
+        <p class="fr-book-popularity">USD 300.00 | Shipping USD 25.00 | US</p>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on eBay
           </a>
         </div>
@@ -772,16 +754,16 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Magnetic Privacy Sign - In Use/Vacant Door Indicator for Bathroom/Office, 7&quot;x2"><img src="{{ '/assets/images/marketplace-covers/5b04680ac3bf3c8c515a.jpg' | relative_url }}" alt="Listing image for Magnetic Privacy Sign - In Use/Vacant Door Indicator for Bathroom/Office, 7&quot;x2" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/e02f5a0779888f794fe4.jpg' | relative_url }}" alt="Listing image for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Magnetic Privacy Sign - In Use/Vacant Door Indicator for Bathroom/Office, 7&quot;x2</a>
+          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
         </h4>
-        <p class="fr-book-author">New | teq-31 (100.0% positive)</p>
-        <p class="fr-book-popularity">USD 17.99 | Free shipping | US</p>
+        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
+        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on eBay
           </a>
         </div>
@@ -789,7 +771,7 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=office+privacy+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-office-privacy-sign&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
@@ -800,16 +782,16 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ENTREPRENEUR mug. Brand new. Deep Pink. Ceramic."><img src="{{ '/assets/images/marketplace-covers/8035d79482af9f9d70a2.jpg' | relative_url }}" alt="Listing image for ENTREPRENEUR mug. Brand new. Deep Pink. Ceramic." loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Expert White Coffee Mug, Hilarious Keyword Joke for Digital Marketers, SEOs"><img src="{{ '/assets/images/marketplace-covers/036748d02a9f748cac4e.jpg' | relative_url }}" alt="Listing image for SEO Expert White Coffee Mug, Hilarious Keyword Joke for Digital Marketers, SEOs" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">ENTREPRENEUR mug. Brand new. Deep Pink. Ceramic.</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEO Expert White Coffee Mug, Hilarious Keyword Joke for Digital Marketers, SEOs</a>
         </h4>
-        <p class="fr-book-author">New | rachel333 (100.0% positive)</p>
-        <p class="fr-book-popularity">GBP 8.66 | Shipping GBP 2.94 | GB</p>
+        <p class="fr-book-author">New | momfirst29 (100.0% positive)</p>
+        <p class="fr-book-popularity">GBP 15.22 | Shipping GBP 9.81 | US</p>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on eBay
           </a>
         </div>
@@ -817,16 +799,16 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Entrepreneur Mug"><img src="{{ '/assets/images/marketplace-covers/733d68064dab64affef3.jpg' | relative_url }}" alt="Listing image for Entrepreneur Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Expert Two Tone Coffee Mug, Hilarious Keyword Joke for Digital Marketers, SE"><img src="{{ '/assets/images/marketplace-covers/2b37757097e5a2072991.jpg' | relative_url }}" alt="Listing image for SEO Expert Two Tone Coffee Mug, Hilarious Keyword Joke for Digital Marketers, SE" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Entrepreneur Mug</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEO Expert Two Tone Coffee Mug, Hilarious Keyword Joke for Digital Marketers, SE</a>
         </h4>
-        <p class="fr-book-author">New | was7861 (100.0% positive)</p>
-        <p class="fr-book-popularity">GBP 26.69 | Shipping GBP 2.94 | GB</p>
+        <p class="fr-book-author">New | momfirst29 (100.0% positive)</p>
+        <p class="fr-book-popularity">GBP 17.01 | Shipping GBP 9.81 | US</p>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on eBay
           </a>
         </div>
@@ -834,33 +816,16 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Billionaire in the Making Gift Mug - Entrepreneur, Boss, Business Present"><img src="{{ '/assets/images/marketplace-covers/807cb999b5236d625bb0.jpg' | relative_url }}" alt="Listing image for Funny Billionaire in the Making Gift Mug - Entrepreneur, Boss, Business Present" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per"><img src="{{ '/assets/images/marketplace-covers/c703be1466bbac8c062d.jpg' | relative_url }}" alt="Listing image for SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Funny Billionaire in the Making Gift Mug - Entrepreneur, Boss, Business Present</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">SEO Expert Black Coffee Mug, Funny Digital Marketing Cup with Keywords Joke, Per</a>
         </h4>
-        <p class="fr-book-author">New | tehe_gifts (99.9% positive)</p>
-        <p class="fr-book-popularity">GBP 10.95 | Free shipping | GB</p>
+        <p class="fr-book-author">New | momfirst29 (100.0% positive)</p>
+        <p class="fr-book-popularity">GBP 20.60 | Shipping GBP 9.81 | US</p>
         <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Inspirational Mum Mug • Motivational Gift for Entrepreneur Mums•Coffee Tea Cup"><img src="{{ '/assets/images/marketplace-covers/d6e418c68a5880978676.jpg' | relative_url }}" alt="Listing image for Inspirational Mum Mug • Motivational Gift for Entrepreneur Mums•Coffee Tea Cup" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Inspirational Mum Mug • Motivational Gift for Entrepreneur Mums•Coffee Tea Cup</a>
-        </h4>
-        <p class="fr-book-author">New | naz.u (100.0% positive)</p>
-        <p class="fr-book-popularity">GBP 9.73 | Shipping GBP 2.94 | GB</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on eBay
           </a>
         </div>
@@ -868,7 +833,7 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=entrepreneur+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-entrepreneur-coffee-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=SEO+marketing+coffee+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-seo-marketing-coffee-mu&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>

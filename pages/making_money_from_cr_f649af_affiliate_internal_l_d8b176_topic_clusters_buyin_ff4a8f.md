@@ -241,7 +241,7 @@ next_link:
   title: Link Timing | Internal Linking
   permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-internal-l-d8b176-link-placement-inten-232665/
   short_title: Link Timing
-date: '2026-05-20 14:53:19 '
+date: '2026-05-20 22:00:32 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_internal_l_d8b176_topic_clusters_buyin_ff4a8f-Illustration-1-social.png
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_internal_l_d8b176_topic_clusters_buyin_ff4a8f-Illustration-1.png
@@ -707,17 +707,17 @@ The goal is not merely topical coverage. The goal is to guide users from uncerta
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+money+online+Antonia+Chitty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making money online on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/4442db9bb9625e2d2b63.jpg' | relative_url }}" alt="Cover for Making money online" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/039c77f0cf6595c692e8.jpg' | relative_url }}" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        
+        <p class="fr-book-fit">Direct pick &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+money+online+Antonia+Chitty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making money online">Making money online</a>
+          <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
         </h4>
-        <p class="fr-book-author">By Antonia Chitty</p>
+        <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-        <p class="fr-book-desc">First published 2013. Subjects: Electronic commerce, Handbooks, manuals, BUSINESS &amp; ECONOMICS, E-Commerce, General (see also COMPUTERS.</p>
+        <p class="fr-book-desc">Directly covers affiliate marketing fundamentals, traffic generation, monetisation, niches, and building affiliate websites.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+money+online+Antonia+Chitty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -725,17 +725,17 @@ The goal is not merely topical coverage. The goal is to guide users from uncerta
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=You+are+a+badass+at+making+money+Jen+Sincero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open You are a badass at making money on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/670ee5e4ebcca0e88050.jpg' | relative_url }}" alt="Cover for You are a badass at making money" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/e4acbeb4395006515fc0.jpg' | relative_url }}" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        
+        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=You+are+a+badass+at+making+money+Jen+Sincero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are a badass at making money">You are a badass at making money</a>
+          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
         </h4>
-        <p class="fr-book-author">By Jen Sincero</p>
+        <p class="fr-book-author">By Russell Brunson</p>
         
-        <p class="fr-book-desc">First published 2014. Subjects: Personal Finance, Psychological aspects, Self-help techniques, Self-actualization (psychology), Finance,...</p>
+        <p class="fr-book-desc">Useful for understanding conversion funnels, offer structure, landing pages, and monetising traffic from affiliate sites.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=You+are+a+badass+at+making+money+Jen+Sincero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -743,35 +743,17 @@ The goal is not merely topical coverage. The goal is to guide users from uncerta
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Start+Making+Money+Online+by+Colvin+Tonya+Nyakundi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Start Making Money Online on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/41f91d1ff55a12de4ac6.jpg' | relative_url }}" alt="Cover for How to Start Making Money Online" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traffic Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/aad589469e9a3c293c37.jpg' | relative_url }}" alt="Cover for Traffic Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        
+        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+to+Start+Making+Money+Online+by+Colvin+Tonya+Nyakundi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Start Making Money Online">How to Start Making Money Online</a>
+          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traffic Secrets">Traffic Secrets</a>
         </h4>
-        <p class="fr-book-author">By Colvin Tonya Nyakundi, John Davidson</p>
+        <p class="fr-book-author">By Russell Brunson</p>
         
-        <p class="fr-book-desc">Table of Contents Introduction Where to Make Money Online Blogging Creating websites and search engine optimization Affiliate marketing D...</p>
+        <p class="fr-book-desc">Highly relevant for affiliate websites because traffic acquisition is central to monetisation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+to+Start+Making+Money+Online+by+Colvin+Tonya+Nyakundi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Making+Money+Simple+by+Peter+Lazaroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Making Money Simple on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/61b8b5a98168e97da882.jpg' | relative_url }}" alt="Cover for Making Money Simple" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Making+Money+Simple+by+Peter+Lazaroff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Making Money Simple">Making Money Simple</a>
-        </h4>
-        <p class="fr-book-author">By Peter Lazaroff</p>
-        
-        <p class="fr-book-desc">Simplify your financial life and ensure financial success into the future Feeling paralyzed by the overwhelming number of complex decisio...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Making+Money+Simple+by+Peter+Lazaroff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -796,12 +778,6 @@ The goal is not merely topical coverage. The goal is to guide users from uncerta
       </div>
       <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <p class="fr-ebay-market-label">Shop location</p>
-        <div class="fr-ebay-market-switcher" role="group" aria-label="Choose eBay market">
-          <button class="fr-ebay-market-button" type="button" data-ebay-market-button="EBAY_US" aria-pressed="true">🇺🇸 USA</button><button class="fr-ebay-market-button" type="button" data-ebay-market-button="EBAY_GB" aria-pressed="false">🇬🇧 UK</button>
-        </div>
-      </div>
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
@@ -877,85 +853,6 @@ The goal is not merely topical coverage. The goal is to guide users from uncerta
       </div>
       <div class="fr-section-footer">
         <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
-      </div>
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Coffee Break Mug Funny Web Developer Humor Coffee Cup - 11oz"><img src="{{ '/assets/images/marketplace-covers/e1c3d981cb12974af70e.jpg' | relative_url }}" alt="Listing image for Coffee Break Mug Funny Web Developer Humor Coffee Cup - 11oz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Coffee Break Mug Funny Web Developer Humor Coffee Cup - 11oz</a>
-        </h4>
-        <p class="fr-book-author">New other (see details) | crazydogtshirts (99.8% positive)</p>
-        <p class="fr-book-popularity">GBP 8.51 | Shipping GBP 10.74 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Developer Mode Mug Software Engineer Web Developer Funny Gift Ceramic 11oz 15oz"><img src="{{ '/assets/images/marketplace-covers/df426ed604af488a9b7d.jpg' | relative_url }}" alt="Listing image for Developer Mode Mug Software Engineer Web Developer Funny Gift Ceramic 11oz 15oz" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Developer Mode Mug Software Engineer Web Developer Funny Gift Ceramic 11oz 15oz</a>
-        </h4>
-        <p class="fr-book-author">New | shirttrendz (99.9% positive)</p>
-        <p class="fr-book-popularity">GBP 22.39 | Shipping GBP 13.39 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Annoy A Web Developer Mug"><img src="{{ '/assets/images/marketplace-covers/3218d8e8ba02a8799f6a.jpg' | relative_url }}" alt="Listing image for How To Annoy A Web Developer Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">How To Annoy A Web Developer Mug</a>
-        </h4>
-        <p class="fr-book-author">New | ossie_1971 (99.8% positive)</p>
-        <p class="fr-book-popularity">GBP 9.99 | Free shipping | GB</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for My Heart Belongs To A Web Developer Mug"><img src="{{ '/assets/images/marketplace-covers/a7599e5f277a2c907879.jpg' | relative_url }}" alt="Listing image for My Heart Belongs To A Web Developer Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">My Heart Belongs To A Web Developer Mug</a>
-        </h4>
-        <p class="fr-book-author">New | grabmybits07 (99.6% positive)</p>
-        <p class="fr-book-popularity">GBP 10.99 | Free shipping | GB</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=web+developer+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-interna-web-developer-mug&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
