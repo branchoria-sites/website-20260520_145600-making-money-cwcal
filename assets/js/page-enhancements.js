@@ -8230,19 +8230,23 @@
       threshold: 0
     });
 
+    var activeCount = 0;
     Array.prototype.forEach.call(animElements, function(el, index) {
-      el.classList.add("animate-on-scroll");
       el.style.setProperty("--reveal-delay", String(Math.min(index * 36, 220)) + "ms");
-      observer.observe(el);
       var rect = el.getBoundingClientRect();
       var viewportHeight = window.innerHeight || document.documentElement.clientHeight || 0;
       if (rect.top < viewportHeight && rect.bottom > 0) {
-        window.setTimeout(function() {
-          el.classList.add("is-visible");
-          observer.unobserve(el);
-        }, 0);
+        el.classList.add("animate-on-scroll");
+        el.classList.add("is-visible");
+      } else {
+        el.classList.add("animate-on-scroll");
+        observer.observe(el);
+        activeCount++;
       }
     });
+    if (activeCount === 0) {
+      window.clearTimeout(revealFailsafeTimer);
+    }
   }
 
   function init() {
