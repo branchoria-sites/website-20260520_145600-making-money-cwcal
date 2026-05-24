@@ -12169,7 +12169,7 @@ body.page-article .article-body > .content-enhancement--tension > ul > li {
 }
 
 body.page-article .article-body > .content-enhancement--tension > ul > li::before {
-  content: "â†”";
+  content: "↔";
   top: 50%;
   left: 0.82rem;
   display: grid;
