@@ -1,4 +1,4 @@
-:root {
+﻿:root {
   --page-bg: #eef3ea;
   --surface: #fffdf8;
   --surface-alt: #f7f7f0;
@@ -5813,8 +5813,32 @@ a.citation-chip:focus-visible {
   border-top: 1px solid color-mix(in srgb, var(--header-border) 72%, transparent 28%);
 }
 
-.footer-meta p:last-child {
+.footer-meta > p:last-child {
   color: color-mix(in srgb, var(--muted) 82%, var(--heading) 18%);
+}
+.footer-meta-left {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  min-width: min(100%, 22rem);
+}
+
+.footer-meta-links {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+.footer-meta-link {
+  color: var(--muted);
+  text-decoration: none;
+  text-underline-offset: 0.16em;
+  transition: color 150ms ease;
+}
+
+.footer-meta-link:hover,
+.footer-meta-link:focus-visible {
+  color: var(--brand-dark);
+  text-decoration: underline;
 }
 
 body.profile-editorial .container,
@@ -6115,6 +6139,10 @@ body.right-sidebar-collapsed .layout-grid-article {
 
 :root[data-theme="dark"] .footer-meta {
   border-top-color: rgba(126, 210, 223, 0.16);
+}
+:root[data-theme="dark"] .footer-meta-link:hover,
+:root[data-theme="dark"] .footer-meta-link:focus-visible {
+  color: #fff1de;
 }
 
 :root[data-theme="dark"] .topic-card-kicker {
@@ -12141,7 +12169,7 @@ body.page-article .article-body > .content-enhancement--tension > ul > li {
 }
 
 body.page-article .article-body > .content-enhancement--tension > ul > li::before {
-  content: "↔";
+  content: "â†”";
   top: 50%;
   left: 0.82rem;
   display: grid;
