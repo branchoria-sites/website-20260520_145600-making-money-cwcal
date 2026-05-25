@@ -8,20 +8,23 @@ sibling_basenames:
 - making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_deal_discount_keywor_139597
 - making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_thin_affiliate_value_4b5e8e
 - making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4
-tags: &id001
+tags:
 - making-money-from-creating-websites-containing-aff
 - buyer-intent
 - intent-words
-keywords: *id001
+keywords:
+- making-money-from-creating-websites-containing-aff
+- buyer-intent
+- intent-words
 affiliate_category: making-money-from-creating-websites-containing-aff
 show_ads: true
 description: Words like best, review, versus and discount usually reveal how close a searcher is to choosing, comparing or buying.
 hero_summary: Words like best, review, versus and discount usually reveal how close a searcher is to choosing, comparing or buying.
 layout: default
-permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-buying-intent-modifi-e84f0b/
+permalink: /untitled/intent-words/
 nav_short_title: Intent Words
-title: Intent Words
-title_full: Intent Words | Buyer Intent
+title: Buying Intent Keywords
+title_full: Buying Intent Keywords | Buyer Intent
 display_title_short: Intent Words
 display_title: Intent Words
 heading_title: Buying Intent Keywords
@@ -192,60 +195,64 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-book_search_hint: affiliate marketing, keyword research
-parent_title: Buyer Intent | Making Money From Creating Websites Containing Affiliate Links
-parent_permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4/
+date: '2026-05-20 22:02:11'
+parent_title: Buyer Intent and Revenue | Affiliate Website Revenue
+parent_permalink: /untitled/buyer-intent/
 parent_nav_short_title: Buyer Intent
 ancestor_links:
-- &id002
-  basename: making_money_from_cr_f649af
+- basename: making_money_from_cr_f649af
   title: Affiliate Website Revenue
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af/
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
   short_title: Affiliate Website Revenue
-- &id003
-  basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4
+- basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4
   title: Buyer Intent | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4/
+  permalink: /untitled/buyer-intent/
   short_title: Buyer Intent
 breadcrumb_links:
-- *id002
-- *id003
+- basename: making_money_from_cr_f649af
+  title: Affiliate Website Revenue
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
+  short_title: Affiliate Website Revenue
+- basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4
+  title: Buyer Intent | Making Money From Creating Websites Containing Affiliate Links
+  permalink: /untitled/buyer-intent/
+  short_title: Buyer Intent
 sibling_links:
 - basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_deal_discount_keywor_139597
   title: Deal Keywords | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-deal-discount-keywor-139597/
+  permalink: /untitled/deal-keywords/
   short_title: Deal Keywords
 - basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_affiliate_page_types_956d68
   title: Page Types | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-affiliate-page-types-956d68/
+  permalink: /untitled/page-types/
   short_title: Page Types
 - basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_thin_affiliate_value_4b5e8e
   title: Thin Pages | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-thin-affiliate-value-4b5e8e/
+  permalink: /untitled/thin-pages/
   short_title: Thin Pages
 - basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4
   title: Traffic Value | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-traffic-vs-sales-int-2b88c4/
+  permalink: /untitled/traffic-value/
   short_title: Traffic Value
 up_link:
   basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4
   title: Buyer Intent | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4/
+  permalink: /untitled/buyer-intent/
   short_title: Buyer Intent
 prev_link:
   basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_deal_discount_keywor_139597
   title: Deal Keywords | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-deal-discount-keywor-139597/
+  permalink: /untitled/deal-keywords/
   short_title: Deal Keywords
 next_link:
   basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_affiliate_page_types_956d68
   title: Page Types | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-affiliate-page-types-956d68/
+  permalink: /untitled/page-types/
   short_title: Page Types
-date: '2026-05-20 22:02:11 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-1-social.png
   preview_image: /assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-1.png
+image: /assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-1-social.png
 ---
 
 ## Introduction
@@ -253,8 +260,8 @@ header:
 The most profitable affiliate keywords are often not the biggest keywords. They are the searches that reveal a reader is already comparing options, narrowing choices, checking value, or preparing to buy. Small modifier words such as “best”, “review”, “vs”, “discount”, and “alternative” frequently signal that the searcher is close to a commercial decision rather than casually researching a topic. Studies and industry guidance on buyer-intent keywords consistently classify these modifiers as commercial or transactional signals because they correlate with evaluation and purchase behaviour rather than general curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rediem.co/post/purchase-buyer-intent-keywords" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rediem.co">[rediem.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rediem.co</span><span class="citation-popover-title">purchase buyer intent keywords</span><span class="citation-popover-snippet">These queries reflect...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keywordinsights.ai/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keywordinsights.ai">[3keywordinsights.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keywordinsights.ai</span><span class="citation-popover-title">Buyer Intent Keywords [How to Identify &amp; Optimise For Them</span><span class="citation-popover-snippet">February 18, 2025 — 3 Jun 2025 — Such queries may include words like “best,” “review,” “buy,” “discount,” or” “vs” that indicate they&#x27;re...</span><span class="citation-popover-meta">Published: February 18, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://seranking.com/blog/search-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seranking.com">[SE Ranking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seranking.com</span><span class="citation-popover-snippet">SE RankingThe 6 Types of Search Intent (Including the New...Transactional keyword modifiers are buy, subscribe, price, cheap, discount...</span></span></span>
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-1-dark.svg" | relative_url }}" alt="Intent Words illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For affiliate websites, these modifiers matter because they directly affect conversion rates, page structure, merchant matching, and revenue per visitor. A page targeting “best espresso machine under £300” typically monetises differently from a page targeting “how espresso machines work”. The first query invites comparisons, affiliate links, pricing [tables]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-comparison-tables-cl-5eb30a/' | relative_url }}), and product recommendations. The second is mostly educational. Understanding which modifiers indicate buying intent allows a website system to prioritise higher-value topics, choose the right page template automatically, and connect readers to offers at the correct decision stage.
+<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-1-light.svg" | relative_url }}" alt="Intent Words illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+For affiliate websites, these modifiers matter because they directly affect conversion rates, page structure, merchant matching, and revenue per visitor. A page targeting “best espresso machine under £300” typically monetises differently from a page targeting “how espresso machines work”. The first query invites comparisons, affiliate links, pricing [tables]({{ 'untitled/tables/' | relative_url }}), and product recommendations. The second is mostly educational. Understanding which modifiers indicate buying intent allows a website system to prioritise higher-value topics, choose the right page template automatically, and connect readers to offers at the correct decision stage.
 
 ## Why modifiers matter more than raw search volume
 
@@ -290,7 +297,7 @@ For affiliate publishers, these modifiers are operational signals. They influenc
 * suitable content formats
 * merchant selection
 * monetisation priority inside a content queue
-* [internal linking]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-internal-l-d8b176/' | relative_url }}) direction
+* [internal linking]({{ 'untitled/internal-linking/' | relative_url }}) direction
 
 This is why many affiliate sites earn disproportionate revenue from relatively small clusters of high-intent pages rather than from their highest-traffic informational articles.
 
@@ -321,7 +328,7 @@ These searches usually indicate three things simultaneously:
 
 </div>
 
-That combination is ideal for affiliate monetisation because comparison-driven content naturally supports affiliate links, ranked lists, [comparison tables]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-comparison-tables-cl-5eb30a/' | relative_url }}), and product summaries.
+That combination is ideal for affiliate monetisation because comparison-driven content naturally supports affiliate links, ranked lists, [comparison tables]({{ 'untitled/tables/' | relative_url }}), and product summaries.
 
 Industry analyses of commercial-intent keywords consistently categorise “best” and “top” as evaluation-stage modifiers associated with commercial investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keywordinsights.ai/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keywordinsights.ai">[keywordinsights.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keywordinsights.ai</span><span class="citation-popover-title">Buyer Intent Keywords [How to Identify &amp; Optimise For Them</span><span class="citation-popover-snippet">February 18, 2025 — 3 Jun 2025 — Such queries may include words like “best,” “review,” “buy,” “discount,” or” “vs” that indicate they&#x27;re...</span><span class="citation-popover-meta">Published: February 18, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://seranking.com/blog/search-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seranking.com">[SE Ranking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seranking.com</span><span class="citation-popover-snippet">SE RankingThe 6 Types of Search Intent (Including the New...Transactional keyword modifiers are buy, subscribe, price, cheap, discount...</span></span></span>
 
@@ -388,7 +395,7 @@ is often validating a near-final decision.
 Research on buyer-intent keywords frequently places “review” in the commercial-to-transactional range because the reader is evaluating risk before purchase. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.keywordinsights.ai/blog/buyer-intent-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: keywordinsights.ai">[keywordinsights.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">keywordinsights.ai</span><span class="citation-popover-title">Buyer Intent Keywords [How to Identify &amp; Optimise For Them</span><span class="citation-popover-snippet">February 18, 2025 — 3 Jun 2025 — Such queries may include words like “best,” “review,” “buy,” “discount,” or” “vs” that indicate they&#x27;re...</span><span class="citation-popover-meta">Published: February 18, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://seranking.com/blog/search-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seranking.com">[SE Ranking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seranking.com</span><span class="citation-popover-snippet">SE RankingThe 6 Types of Search Intent (Including the New...Transactional keyword modifiers are buy, subscribe, price, cheap, discount...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/s5VZaXi7RF4" title="Keyword Research Tips for Affiliate Marketing Sites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=s5VZaXi7RF4" target="_blank" rel="noopener noreferrer">Keyword Research Tips for Affiliate Marketing Sites</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 67.3K &middot; Uploaded: August 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=s5VZaXi7RF4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=s5VZaXi7RF4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MmhN3laA2_g" title="Keyword Research for Affiliate Marketing Sites [3.2]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MmhN3laA2_g" target="_blank" rel="noopener noreferrer">Keyword Research for Affiliate Marketing Sites [3.2]</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 35.2K &middot; Uploaded: March 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MmhN3laA2_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MmhN3laA2_g">Open on YouTube</a></p></div></div></div>
 
 ### Why reviews convert well for affiliates
 
@@ -403,7 +410,7 @@ The remaining barrier is confidence.
 
 That changes the content requirements. A review page must reduce uncertainty rather than merely introduce the product.
 
-High-performing [affiliate review]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-review-pag-f66da7/' | relative_url }}) pages usually focus on:
+High-performing [affiliate review]({{ 'untitled/review-pages/' | relative_url }}) pages usually focus on:
 
 * real strengths and weaknesses
 * who the product suits
@@ -411,7 +418,7 @@ High-performing [affiliate review]({{ 'making-money-from-creating-websites-conta
 * pricing clarity
 * setup or usability concerns
 * comparisons against close alternatives
-* screenshots, testing, or experience [evidence]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-evidence-blocks-affi-b0d439/' | relative_url }})
+* screenshots, testing, or experience [evidence]({{ 'untitled/evidence/' | relative_url }})
 
 Generic praise reduces credibility. Commercial readers searching for reviews are actively looking for friction points and hidden drawbacks.
 
@@ -459,13 +466,13 @@ That usually increases:
 * affiliate click intent <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.affililist.com/blog/affiliate-marketing-keywords" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affililist.com">[affililist.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affililist.com</span><span class="citation-popover-snippet">AffiliList15 High-Intent Affiliate Marketing Keywords for 2026March 30, 2026 — 30 Mar 2026 — Searchers using modifiers like &quot;best&quot; or &quot;re...</span><span class="citation-popover-meta">Published: March 30, 2026</span></span></span>
 * scroll depth
 * comparison-table interaction
-* outbound clicks to [merchants]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-multiple-merchant-li-625ce1/' | relative_url }})
+* outbound clicks to [merchants]({{ 'untitled/merchants/' | relative_url }})
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-2-dark.svg" | relative_url }}" alt="Intent Words illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-2-light.svg" | relative_url }}" alt="Intent Words illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Effective structures for “vs” pages
 
-Good [comparison pages]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1/' | relative_url }}) are symmetrical and decision-oriented.
+Good [comparison pages]({{ 'untitled/comparison-pages/' | relative_url }}) are symmetrical and decision-oriented.
 
 Strong layouts usually include:
 
@@ -498,7 +505,7 @@ These searches often occur immediately before purchase because the user has larg
 Search-intent guidance consistently classifies terms like “discount”, “sale”, “cheap”, and “price” as transactional modifiers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seranking.com/blog/search-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seranking.com">[SE Ranking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seranking.com</span><span class="citation-popover-snippet">SE RankingThe 6 Types of Search Intent (Including the New...Transactional keyword modifiers are buy, subscribe, price, cheap, discount...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semrush.com/blog/buyer-keywords/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-snippet">t by plugging it into Keyword Overview and reviewing the “Intent” widget.Read more...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MmhN3laA2_g" title="Keyword Research for Affiliate Marketing Sites [3.2]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MmhN3laA2_g" target="_blank" rel="noopener noreferrer">Keyword Research for Affiliate Marketing Sites [3.2]</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 35.2K &middot; Uploaded: March 2023 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MmhN3laA2_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MmhN3laA2_g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IqI-3sEu6kQ" title="Map Your Keywords to the Buyer&#x27;s Journey and User Intent | Whiteboard Friday | Rejoice Ojiaku" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IqI-3sEu6kQ" target="_blank" rel="noopener noreferrer">Map Your Keywords to the Buyer&#x27;s Journey and User Intent | Whiteboard Friday | Rejoice Ojiaku</a></p><p class="youtube-embed-meta">Channel: Moz &middot; Views: 687 &middot; Uploaded: August 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IqI-3sEu6kQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IqI-3sEu6kQ">Open on YouTube</a></p></div></div></div>
 
 ### Why these modifiers behave differently
 
@@ -547,7 +554,7 @@ Queries like:
 can monetise well because the user is still in active selection mode.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-3-dark.svg" | relative_url }}" alt="Intent Words illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-3-light.svg" | relative_url }}" alt="Intent Words illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Alternative modifiers reveal dissatisfaction with incumbents
 
 Alternative-based modifiers are commercially valuable because they indicate the user already understands the market but is reconsidering their choice.
@@ -592,7 +599,7 @@ For example:
 * best hiking trails in Wales
 * best sci-fi books of all time
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rediem.co/post/purchase-buyer-intent-keywords" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rediem.co">[may not indicate direct purchase intent despite containing commercial-style wording.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rediem.co</span><span class="citation-popover-title">purchase buyer intent keywords</span><span class="citation-popover-snippet">These queries reflect...Read more...</span></span></span>
+may not indicate direct purchase intent despite containing commercial-style wording. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rediem.co/post/purchase-buyer-intent-keywords" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rediem.co">[rediem.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rediem.co</span><span class="citation-popover-title">purchase buyer intent keywords</span><span class="citation-popover-snippet">These queries reflect...Read more...</span></span></span>
 
 Similarly, some informational searches contain apparent commercial modifiers without strong conversion potential.
 
@@ -607,7 +614,7 @@ This is why intent classification should combine modifiers with:
 Several SEO and intent-analysis sources explicitly warn against relying only on modifiers without checking actual search results and user behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seranking.com/blog/search-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seranking.com">[SE Ranking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seranking.com</span><span class="citation-popover-snippet">SE RankingThe 6 Types of Search Intent (Including the New...Transactional keyword modifiers are buy, subscribe, price, cheap, discount...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://prospeo.io/s/buyer-intent-keywords-list" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prospeo.io">[Prospeo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prospeo.io</span><span class="citation-popover-snippet">Buyer Intent Keywords List: 200+ Modifiers by TierFilter queries containing high-intent modifiers: &quot;pricing,&quot; &quot;best,&quot; &quot;vs,&quot; &quot;review,&quot; &quot;bu...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AnAlZedD3CM" title="How to Find BUYER Intent Keywords (5 Advanced Tactics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AnAlZedD3CM" target="_blank" rel="noopener noreferrer">How to Find BUYER Intent Keywords (5 Advanced Tactics)</a></p><p class="youtube-embed-meta">Channel: Robbie Richards &middot; Views: 7.8K &middot; Uploaded: October 2020 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AnAlZedD3CM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AnAlZedD3CM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vfC7J_mhM08" title="How I Make $2k/day With FREE Google Traffic (SaaS SEO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vfC7J_mhM08" target="_blank" rel="noopener noreferrer">How I Make $2k/day With FREE Google Traffic (SaaS SEO)</a></p><p class="youtube-embed-meta">Channel: Vasco Aires &middot; Views: 1.7K &middot; Uploaded: April 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vfC7J_mhM08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vfC7J_mhM08">Open on YouTube</a></p></div></div></div>
 
 ### SERP structure is often the real intent signal
 
@@ -635,7 +642,7 @@ This matters for scalable website systems because modifier detection alone can m
 
 ## The strongest modifiers are often combined
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rediem.co/post/purchase-buyer-intent-keywords" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rediem.co">[The highest-value affiliate keywords frequently combine multiple intent signals.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rediem.co</span><span class="citation-popover-title">purchase buyer intent keywords</span><span class="citation-popover-snippet">These queries reflect...Read more...</span></span></span>
+The highest-value affiliate keywords frequently combine multiple intent signals. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rediem.co/post/purchase-buyer-intent-keywords" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rediem.co">[rediem.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rediem.co</span><span class="citation-popover-title">purchase buyer intent keywords</span><span class="citation-popover-snippet">These queries reflect...Read more...</span></span></span>
 
 Examples include:
 
@@ -659,7 +666,7 @@ For affiliate publishers, these terms are often more valuable than broader high-
 
 1. <a id="endnote-1"></a>
    Source: keywordinsights.ai  
-   Title: [Buyer Intent](&#123;&#123; 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4/' | relative_url &#125;&#125;) Keywords [How to Identify & Optimise For Them]  
+   Title: [Buyer Intent](&#123;&#123; 'untitled/buyer-intent/' | relative_url &#125;&#125;) Keywords [How to Identify & Optimise For Them]  
    Link: [https://www.keywordinsights.ai/blog/buyer-intent-keywords/](https://www.keywordinsights.ai/blog/buyer-intent-keywords/)  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>February 18, 2025 — 3 Jun 2025 — Such queries may include words like “best,” “review,” “buy,” “discount,” or” “vs” that indicate they&#x27;re...</p></details>
    Published: February 18, 2025  
@@ -750,15 +757,14 @@ For affiliate publishers, these terms are often more valuable than broader high-
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/039c77f0cf6595c692e8.jpg' | relative_url }}" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcG_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Direct pick &middot; High appeal</p>
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
         </h4>
         <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-        <p class="fr-book-desc">Directly covers affiliate marketing fundamentals, traffic generation, monetisation, niches, and building affiliate websites.</p>
+        <p class="fr-book-desc">Directly covers affiliate websites, traffic, niches, monetisation, commissions, and practical setup for affiliate content businesses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -768,17 +774,16 @@ For affiliate publishers, these terms are often more valuable than broader high-
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/e4acbeb4395006515fc0.jpg' | relative_url }}" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Nothing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hf9bzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for From Nothing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Nothing">From Nothing</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Ian Pribyl</p>
         
-        <p class="fr-book-desc">Useful for understanding conversion funnels, offer structure, landing pages, and monetising traffic from affiliate sites.</p>
+        <p class="fr-book-desc">Covers affiliate marketing, blogging, online business models, and website monetisation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -786,17 +791,16 @@ For affiliate publishers, these terms are often more valuable than broader high-
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traffic Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/aad589469e9a3c293c37.jpg' | relative_url }}" alt="Cover for Traffic Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1-Page Marketing Plan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVOJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1-Page Marketing Plan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traffic Secrets">Traffic Secrets</a>
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Allan Dib</p>
         
-        <p class="fr-book-desc">Highly relevant for affiliate websites because traffic acquisition is central to monetisation.</p>
+        <p class="fr-book-desc">Helps affiliate-site owners structure acquisition, conversion, and customer journeys.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -804,156 +808,8 @@ For affiliate publishers, these terms are often more valuable than broader high-
     </article>
     </div>
     <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing%2C+Keyword+Research&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Browse more on Amazon
-      </a>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=affiliate+marketing+poster+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">affiliate marketing poster guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=blogging+entrepreneur+mug+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">blogging entrepreneur mug guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=digital+marketing+wall+art+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">digital marketing wall art guide</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/b61377085cf161584ef2.jpg' | relative_url }}" alt="Listing image for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor"><img src="{{ '/assets/images/marketplace-covers/1599f6e6909fda64c35b.jpg' | relative_url }}" alt="Listing image for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor</a>
-        </h4>
-        <p class="fr-book-author">New | blumics (97.1% positive)</p>
-        <p class="fr-book-popularity">USD 10.00 | Free shipping | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/cc4538a680050cd19985.jpg' | relative_url }}" alt="Listing image for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 300.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/e02f5a0779888f794fe4.jpg' | relative_url }}" alt="Listing image for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function inferMarket(available) {
-    try {
-      var saved = window.localStorage && localStorage.getItem('phoenix-ebay-market');
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var language = normalize((navigator.languages && navigator.languages[0]) || navigator.language || '');
-    if ((language === 'en-gb' || language.endsWith('-gb') || language === 'en-ie') && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-    if ((language === 'en-us' || language.endsWith('-us')) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    try {
-      var tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
-      if (/Europe\/(London|Belfast)/.test(tz) && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-      if (/^America\//.test(tz) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    } catch (err) {}
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var buttons = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'));
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (buttons.length < 2 || panels.length < 2) return;
-    var available = buttons.map(function (button) { return button.getAttribute('data-ebay-market-button'); }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      buttons.forEach(function (button) {
-        var active = button.getAttribute('data-ebay-market-button') === marketId;
-        button.setAttribute('aria-pressed', active ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-    }
-    buttons.forEach(function (button) {
-      button.addEventListener('click', function () {
-        selectMarket(button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>

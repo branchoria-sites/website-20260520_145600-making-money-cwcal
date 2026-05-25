@@ -8,20 +8,23 @@ sibling_basenames:
 - making_money_from_cr_f649af_affiliate_disclosure_9d7a11_mailonline_disclosur_295b02
 - making_money_from_cr_f649af_affiliate_disclosure_9d7a11_original_value_check_aacd20
 - making_money_from_cr_f649af_affiliate_disclosure_9d7a11_whole_page_vs_sectio_057821
-tags: &id001
+tags:
 - making-money-from-creating-websites-containing-aff
 - disclosure-rules
 - thin-templates
-keywords: *id001
+keywords:
+- making-money-from-creating-websites-containing-aff
+- disclosure-rules
+- thin-templates
 affiliate_category: making-money-from-creating-websites-containing-aff
 show_ads: true
 description: Affiliate pages become risky when they mainly repeat merchant descriptions without original judgement, filtering, or comparison value.
 hero_summary: Affiliate pages become risky when they mainly repeat merchant descriptions without original judgement, filtering, or comparison value.
 layout: default
-permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11-thin-affiliate-templ-0bb8c2/
+permalink: /untitled/thin-templates/
 nav_short_title: Thin templates
-title: Thin templates
-title_full: Thin templates | Disclosure Rules
+title: Thin affiliate templates
+title_full: Thin affiliate templates | Disclosure Rules
 display_title_short: Thin templates
 display_title: Thin templates
 heading_title: Thin affiliate templates
@@ -192,60 +195,64 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-book_search_hint: SEO strategy, affiliate marketing
-parent_title: Disclosure Rules | Making Money From Creating Websites Containing Affiliate Links
-parent_permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11/
+date: '2026-05-20 21:59:40'
+parent_title: Affiliate Disclosure and Content Risks | Affiliate Website Revenue
+parent_permalink: /untitled/disclosure-rules/
 parent_nav_short_title: Disclosure Rules
 ancestor_links:
-- &id002
-  basename: making_money_from_cr_f649af
+- basename: making_money_from_cr_f649af
   title: Affiliate Website Revenue
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af/
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
   short_title: Affiliate Website Revenue
-- &id003
-  basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11
+- basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11
   title: Disclosure Rules | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11/
+  permalink: /untitled/disclosure-rules/
   short_title: Disclosure Rules
 breadcrumb_links:
-- *id002
-- *id003
+- basename: making_money_from_cr_f649af
+  title: Affiliate Website Revenue
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
+  short_title: Affiliate Website Revenue
+- basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11
+  title: Disclosure Rules | Making Money From Creating Websites Containing Affiliate Links
+  permalink: /untitled/disclosure-rules/
+  short_title: Disclosure Rules
 sibling_links:
 - basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11_mailonline_disclosur_295b02
   title: MailOnline case | Disclosure Rules
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11-mailonline-disclosur-295b02/
+  permalink: /untitled/mailonline-case/
   short_title: MailOnline case
 - basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11_whole_page_vs_sectio_057821
   title: Page labels | Disclosure Rules
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11-whole-page-vs-sectio-057821/
+  permalink: /untitled/page-labels/
   short_title: Page labels
 - basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11_original_value_check_aacd20
   title: Value checks | Disclosure Rules
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11-original-value-check-aacd20/
+  permalink: /untitled/value-checks/
   short_title: Value checks
 - basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11_clear_affiliate_word_ac25e8
   title: Wording | Disclosure Rules
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11-clear-affiliate-word-ac25e8/
+  permalink: /untitled/wording/
   short_title: Wording
 up_link:
   basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11
   title: Disclosure Rules | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11/
+  permalink: /untitled/disclosure-rules/
   short_title: Disclosure Rules
 prev_link:
   basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11_whole_page_vs_sectio_057821
   title: Page labels | Disclosure Rules
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11-whole-page-vs-sectio-057821/
+  permalink: /untitled/page-labels/
   short_title: Page labels
 next_link:
   basename: making_money_from_cr_f649af_affiliate_disclosure_9d7a11_original_value_check_aacd20
   title: Value checks | Disclosure Rules
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11-original-value-check-aacd20/
+  permalink: /untitled/value-checks/
   short_title: Value checks
-date: '2026-05-20 21:59:40 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-1-social.png
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-1.png
+image: /assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-1-social.png
 ---
 
 ## Introduction
@@ -253,7 +260,7 @@ header:
 Thin affiliate templates become risky when the page exists mainly to push a visitor towards a merchant without adding meaningful judgement, filtering, testing, or comparison value. Google does not ban affiliate marketing itself. The problem is “thin affiliation”: pages that look interchangeable, reuse supplier feeds, and give the searcher little reason to stay on the site instead of going directly to the retailer. Google’s spam policies specifically warn about affiliate pages that are “cookie-cutter” or replicated across domains without additional value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/essentials/spam-policies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersSpam Policies for Google Web SearchAffiliate pages can be considered thin if they are a part of a program that distr...</span></span></span>
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-1-dark.svg" | relative_url }}" alt="Thin templates illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-1-light.svg" | relative_url }}" alt="Thin templates illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For a website monetisation system, this matters because many scalable affiliate models naturally drift towards thinness. Large product databases, AI-assisted article generation, template-driven “best” pages, and merchant-feed imports can create thousands of pages quickly. But scale alone is not the issue. The key question is whether each page genuinely helps the user make a decision. If the answer is “not really”, the template may eventually lose rankings, fail to index properly, or trigger manual review.
 
 ## What makes a template look cookie-cutter
@@ -267,7 +274,7 @@ Google’s spam policies describe thin affiliate pages as sites that distribute 
 * Product descriptions copied from merchant feeds
 * “Best X” pages where every product receives generic praise
 * Location or niche variants that barely change beyond keywords
-* Mass-produced pages with no [evidence]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-evidence-blocks-affi-b0d439/' | relative_url }}) of real evaluation
+* Mass-produced pages with no [evidence]({{ 'untitled/evidence/' | relative_url }}) of real evaluation
 * Pages where the primary visible action is clicking affiliate links
 
 This matters commercially because search engines evaluate patterns at site level as well as page level. A few weak pages may not matter. Thousands of near-identical pages built from the same template can create a clear quality footprint.
@@ -319,7 +326,7 @@ For example, a thin headphone comparison page might simply repeat battery life, 
 This distinction is commercially important because high-converting affiliate pages often succeed precisely by reducing decision friction. Users click affiliate links when the page helps narrow choices confidently. Thin templates usually fail both ranking and conversion tests because they neither differentiate in search nor build enough trust to drive clicks.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w3-obcXkyA4" title="Thin content with little or no added value" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer">Thin content with little or no added value</a></p><p class="youtube-embed-meta">Channel: Google Search Central &middot; Views: 179.8K &middot; Uploaded: August 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3-obcXkyA4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w3-obcXkyA4" title="Thin content with little or no added value" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer">Thin content with little or no added value</a></p><p class="youtube-embed-meta">Channel: Google Search Central &middot; Views: 179.9K &middot; Uploaded: August 2013 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w3-obcXkyA4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w3-obcXkyA4">Open on YouTube</a></p></div></div></div>
 
 ## The difference between scalable structure and spammy scale
 
@@ -329,9 +336,9 @@ A scalable affiliate framework should standardise:
 
 * Navigation
 * Comparison layouts
-* [Disclosure]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-review-pag-f66da7-affiliate-disclosure-8b10cd/' | relative_url }}) placement
+* [Disclosure]({{ 'untitled/disclosure/' | relative_url }}) placement
 * Schema structure
-* [Internal linking]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-internal-l-d8b176/' | relative_url }})
+* [Internal linking]({{ 'untitled/internal-linking/' | relative_url }})
 * Conversion elements
 * Page hierarchy
 
@@ -340,7 +347,7 @@ But the page still needs a meaningful unique layer.
 For example, a review template can remain scalable if the system consistently injects:
 
 * Original product observations
-* Category-specific buying [criteria]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-category-specific-cr-a92f21/' | relative_url }})
+* Category-specific buying [criteria]({{ 'untitled/criteria/' | relative_url }})
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -370,7 +377,7 @@ This is especially risky in high-volume keyword clusters such as:
 If every page recommends the same products using slightly rewritten text, the cluster starts resembling doorway-page behaviour. Google’s spam policies also warn against doorway-style pages that exist mainly to capture keyword variants without distinct value. <span class="citation-chip-wrap"><a class="citation-chip" href="https://marketinglabs.co.uk/what-are-doorway-pages-and-why-are-they-bad-for-seo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: marketinglabs.co.uk">[Marketing Labs ®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">marketinglabs.co.uk</span><span class="citation-popover-title">what are doorway pages and why are they bad for seo</span><span class="citation-popover-snippet">Marketing Labs ®What are doorway pages, and why are they bad for SEO?8 Jul 2025 — Doorway pages can result in your page, or even your ent...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/SEO/comments/1jlzrdt/doorway_abuse/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Decent-Marketing69. • 1y...</span></span></span>
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-2-dark.svg" | relative_url }}" alt="Thin templates illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-2-light.svg" | relative_url }}" alt="Thin templates illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Signals that a page type may not deserve to scale
 
 Before expanding a new affiliate template across hundreds or thousands of pages, it helps to test whether the page would still make sense without affiliate commission attached.
@@ -421,13 +428,13 @@ Pages that rank sustainably often reveal prioritisation and exclusion logic:
 Without judgement, the page becomes a catalogue rather than a recommendation engine.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-3-dark.svg" | relative_url }}" alt="Thin templates illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-3-light.svg" | relative_url }}" alt="Thin templates illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_disclosure_9d7a11_thin_affiliate_templ_0bb8c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Does the affiliate link appear before the value?
 
 A common thin-template pattern is aggressive monetisation above the informational layer:
 
 * Multiple “buy now” buttons near the top
-* Large [comparison tables]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-comparison-tables-cl-5eb30a/' | relative_url }}) with little explanation
+* Large [comparison tables]({{ 'untitled/tables/' | relative_url }}) with little explanation
 * Product grids before any analysis
 * Auto-generated summaries surrounding affiliate CTAs
 
@@ -437,7 +444,7 @@ This structure can make the commercial intent overwhelm the informational purpos
 
 Many affiliate publishers notice ranking losses during core updates or spam-policy enforcement periods because template-heavy systems accumulate hidden quality debt. A site may rank temporarily through domain momentum, low competition, or aggressive publishing velocity. But when Google improves its evaluation of usefulness, repetitive low-value clusters become vulnerable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.affiversemedia.com/googles-march-2026-core-update-hit-affiliate-sites-harder-than-any-other-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiversemedia.com">[- Affiverse]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiversemedia.com</span><span class="citation-popover-snippet">AffiverseGoogle&#x27;s March 2026 Core Update Hit Affiliate Sites Harder...9 Apr 2026 — What Google penalises is scaled content abuse: high-v...</span><span class="citation-popover-meta">Published: march 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stackmatix.com/blog/a-deep-dive-into-google-s-core-algorithm-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stackmatix.com">[2stackmatix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stackmatix.com</span><span class="citation-popover-title">a deep dive into google s core algorithm updates</span><span class="citation-popover-snippet">A Deep Dive into Google&#x27;s Core Algorithm UpdatesMar 9, 2026 — Many sites that had relied on scaled content production or thin affiliate s...</span></span></span>
 
-This creates an important operational lesson for monetised website systems: scaling weak [page types]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-affiliate-page-types-956d68/' | relative_url }}) usually compounds risk rather than revenue durability.
+This creates an important operational lesson for monetised website systems: scaling weak [page types]({{ 'untitled/page-types/' | relative_url }}) usually compounds risk rather than revenue durability.
 
 A site with:
 
@@ -655,15 +662,14 @@ Google’s guidance repeatedly frames the issue around usefulness rather than af
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/039c77f0cf6595c692e8.jpg' | relative_url }}" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcG_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Direct pick &middot; High appeal</p>
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
         </h4>
         <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-        <p class="fr-book-desc">Directly covers affiliate marketing fundamentals, traffic generation, monetisation, niches, and building affiliate websites.</p>
+        <p class="fr-book-desc">Directly covers affiliate websites, traffic, niches, monetisation, commissions, and practical setup for affiliate content businesses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -673,17 +679,16 @@ Google’s guidance repeatedly frames the issue around usefulness rather than af
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/e4acbeb4395006515fc0.jpg' | relative_url }}" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Nothing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hf9bzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for From Nothing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Nothing">From Nothing</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Ian Pribyl</p>
         
-        <p class="fr-book-desc">Useful for understanding conversion funnels, offer structure, landing pages, and monetising traffic from affiliate sites.</p>
+        <p class="fr-book-desc">Covers affiliate marketing, blogging, online business models, and website monetisation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -691,17 +696,16 @@ Google’s guidance repeatedly frames the issue around usefulness rather than af
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traffic Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/aad589469e9a3c293c37.jpg' | relative_url }}" alt="Cover for Traffic Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1-Page Marketing Plan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVOJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1-Page Marketing Plan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traffic Secrets">Traffic Secrets</a>
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Allan Dib</p>
         
-        <p class="fr-book-desc">Highly relevant for affiliate websites because traffic acquisition is central to monetisation.</p>
+        <p class="fr-book-desc">Helps affiliate-site owners structure acquisition, conversion, and customer journeys.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -709,156 +713,8 @@ Google’s guidance repeatedly frames the issue around usefulness rather than af
     </article>
     </div>
     <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing%2C+SEO+strategy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Browse more on Amazon
-      </a>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=affiliate+marketing+poster+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">affiliate marketing poster guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=blogging+entrepreneur+mug+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">blogging entrepreneur mug guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=digital+marketing+wall+art+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">digital marketing wall art guide</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/b61377085cf161584ef2.jpg' | relative_url }}" alt="Listing image for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor"><img src="{{ '/assets/images/marketplace-covers/1599f6e6909fda64c35b.jpg' | relative_url }}" alt="Listing image for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor</a>
-        </h4>
-        <p class="fr-book-author">New | blumics (97.1% positive)</p>
-        <p class="fr-book-popularity">USD 10.00 | Free shipping | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/cc4538a680050cd19985.jpg' | relative_url }}" alt="Listing image for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 300.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/e02f5a0779888f794fe4.jpg' | relative_url }}" alt="Listing image for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-disclos-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function inferMarket(available) {
-    try {
-      var saved = window.localStorage && localStorage.getItem('phoenix-ebay-market');
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var language = normalize((navigator.languages && navigator.languages[0]) || navigator.language || '');
-    if ((language === 'en-gb' || language.endsWith('-gb') || language === 'en-ie') && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-    if ((language === 'en-us' || language.endsWith('-us')) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    try {
-      var tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
-      if (/Europe\/(London|Belfast)/.test(tz) && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-      if (/^America\//.test(tz) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    } catch (err) {}
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var buttons = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'));
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (buttons.length < 2 || panels.length < 2) return;
-    var available = buttons.map(function (button) { return button.getAttribute('data-ebay-market-button'); }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      buttons.forEach(function (button) {
-        var active = button.getAttribute('data-ebay-market-button') === marketId;
-        button.setAttribute('aria-pressed', active ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-    }
-    buttons.forEach(function (button) {
-      button.addEventListener('click', function () {
-        selectMarket(button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>

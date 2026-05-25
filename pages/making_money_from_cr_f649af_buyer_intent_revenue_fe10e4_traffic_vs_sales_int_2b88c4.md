@@ -8,20 +8,23 @@ sibling_basenames:
 - making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b
 - making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_deal_discount_keywor_139597
 - making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_thin_affiliate_value_4b5e8e
-tags: &id001
+tags:
 - making-money-from-creating-websites-containing-aff
 - buyer-intent
 - traffic-value
-keywords: *id001
+keywords:
+- making-money-from-creating-websites-containing-aff
+- buyer-intent
+- traffic-value
 affiliate_category: making-money-from-creating-websites-containing-aff
 show_ads: true
 description: High traffic is not always high value, because some searches educate while others lead naturally toward product clicks.
 hero_summary: High traffic is not always high value, because some searches educate while others lead naturally toward product clicks.
 layout: default
-permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-traffic-vs-sales-int-2b88c4/
+permalink: /untitled/traffic-value/
 nav_short_title: Traffic Value
-title: Traffic Value
-title_full: Traffic Value | Buyer Intent
+title: Traffic That Converts
+title_full: Traffic That Converts | Buyer Intent
 display_title_short: Traffic Value
 display_title: Traffic Value
 heading_title: Traffic That Converts
@@ -192,55 +195,59 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-book_search_hint: affiliate marketing, website monetisation
-parent_title: Buyer Intent | Making Money From Creating Websites Containing Affiliate Links
-parent_permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4/
+date: '2026-05-20 22:02:29'
+parent_title: Buyer Intent and Revenue | Affiliate Website Revenue
+parent_permalink: /untitled/buyer-intent/
 parent_nav_short_title: Buyer Intent
 ancestor_links:
-- &id002
-  basename: making_money_from_cr_f649af
+- basename: making_money_from_cr_f649af
   title: Affiliate Website Revenue
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af/
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
   short_title: Affiliate Website Revenue
-- &id003
-  basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4
+- basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4
   title: Buyer Intent | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4/
+  permalink: /untitled/buyer-intent/
   short_title: Buyer Intent
 breadcrumb_links:
-- *id002
-- *id003
+- basename: making_money_from_cr_f649af
+  title: Affiliate Website Revenue
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
+  short_title: Affiliate Website Revenue
+- basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4
+  title: Buyer Intent | Making Money From Creating Websites Containing Affiliate Links
+  permalink: /untitled/buyer-intent/
+  short_title: Buyer Intent
 sibling_links:
 - basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_deal_discount_keywor_139597
   title: Deal Keywords | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-deal-discount-keywor-139597/
+  permalink: /untitled/deal-keywords/
   short_title: Deal Keywords
 - basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_buying_intent_modifi_e84f0b
   title: Intent Words | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-buying-intent-modifi-e84f0b/
+  permalink: /untitled/intent-words/
   short_title: Intent Words
 - basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_affiliate_page_types_956d68
   title: Page Types | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-affiliate-page-types-956d68/
+  permalink: /untitled/page-types/
   short_title: Page Types
 - basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_thin_affiliate_value_4b5e8e
   title: Thin Pages | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-thin-affiliate-value-4b5e8e/
+  permalink: /untitled/thin-pages/
   short_title: Thin Pages
 up_link:
   basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4
   title: Buyer Intent | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4/
+  permalink: /untitled/buyer-intent/
   short_title: Buyer Intent
 prev_link:
   basename: making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_thin_affiliate_value_4b5e8e
   title: Thin Pages | Buyer Intent
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-thin-affiliate-value-4b5e8e/
+  permalink: /untitled/thin-pages/
   short_title: Thin Pages
-date: '2026-05-20 22:02:29 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-1-social.png
   preview_image: /assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-1.png
+image: /assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-1-social.png
 ---
 
 ## Introduction
@@ -248,10 +255,10 @@ header:
 A large affiliate website can attract hundreds of thousands of visitors and still produce disappointing revenue if most of its traffic comes from readers who are only looking for explanations, definitions, or basic guidance. The key distinction is not simply traffic volume. It is whether the visitor is close enough to a buying decision that affiliate links match the intent of the page.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-1-dark.svg" | relative_url }}" alt="Traffic Value illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In practice, informational traffic and affiliate sales traffic behave differently. Informational visitors often want answers, tutorials, or background knowledge. Commercial visitors are comparing options, checking whether a product is worth buying, narrowing a shortlist, or looking for reassurance before spending money. Commercial and transactional searches consistently convert better because the user is already moving toward action. Industry affiliate benchmarks regularly place average [affiliate conversion]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650/' | relative_url }}) rates around 0.5% to 3%, but those averages vary heavily by traffic quality and intent. wecantrack <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.optimonk.com/affiliate-marketing-conversion-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optimonk.com">[OptiMonk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optimonk.com</span><span class="citation-popover-snippet">OptiMonkAffiliate Marketing Conversion Rate Benchmarks &amp; Best...19 Feb 2026 — That being said, the average affiliate conversion rate is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">how to use affiliate marketing to drive low cost conversions for your brand</span><span class="citation-popover-snippet">conversion rates of 0.5% to 1% are considered average... affiliate marketing conversion rates increase as clicks on the affiliate links...</span></span></span>
+<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-1-light.svg" | relative_url }}" alt="Traffic Value illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+In practice, informational traffic and affiliate sales traffic behave differently. Informational visitors often want answers, tutorials, or background knowledge. Commercial visitors are comparing options, checking whether a product is worth buying, narrowing a shortlist, or looking for reassurance before spending money. Commercial and transactional searches consistently convert better because the user is already moving toward action. Industry affiliate benchmarks regularly place average [affiliate conversion]({{ 'untitled/affiliate-cro/' | relative_url }}) rates around 0.5% to 3%, but those averages vary heavily by traffic quality and intent. wecantrack <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.optimonk.com/affiliate-marketing-conversion-rate" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: optimonk.com">[OptiMonk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">optimonk.com</span><span class="citation-popover-snippet">OptiMonkAffiliate Marketing Conversion Rate Benchmarks &amp; Best...19 Feb 2026 — That being said, the average affiliate conversion rate is...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/us/how-to-use-awin/how-to-use-affiliate-marketing-to-drive-low-cost-conversions-for-your-brand" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">how to use affiliate marketing to drive low cost conversions for your brand</span><span class="citation-popover-snippet">conversion rates of 0.5% to 1% are considered average... affiliate marketing conversion rates increase as clicks on the affiliate links...</span></span></span>
 
-For affiliate websites, separating these two traffic types is one of the most important monetisation decisions. It affects which topics deserve dedicated pages, where affiliate links should appear, which pages should prioritise email capture instead of product offers, and how [internal linking]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-internal-l-d8b176/' | relative_url }}) moves readers from research into purchase-ready comparisons.
+For affiliate websites, separating these two traffic types is one of the most important monetisation decisions. It affects which topics deserve dedicated pages, where affiliate links should appear, which pages should prioritise email capture instead of product offers, and how [internal linking]({{ 'untitled/internal-linking/' | relative_url }}) moves readers from research into purchase-ready comparisons.
 
 ## Why informational traffic often earns poorly
 
@@ -273,7 +280,7 @@ These searches can attract large volumes because broad educational questions nat
 
 A page answering “what is VPN encryption” may receive more traffic than a page targeting “best VPN for streaming BBC iPlayer abroad”, yet the second page is far more likely to generate clicks and sales because the user is already solving a purchase problem.
 
-This distinction matters because [affiliate revenue]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-affiliate-revenue-le-8c2b2f/' | relative_url }}) depends on measurable actions. Awin describes affiliate compensation models as performance-based, typically tied to sales, leads, or clicks rather than raw pageviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/affiliate-marketing/conversion-rate-optimisation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">conversion rate optimisation</span><span class="citation-popover-snippet">What is conversion rate optimisation?6 Jan 2022 — As a general guideline, conversion rates of 0.5% to 1% are considered average for affil...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/how-to-use-awin/diverse-affiliate-payment-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">diverse affiliate payment methods</span><span class="citation-popover-snippet">AwinUnderstanding Affiliate Marketing Payment Methods18 Nov 2022 — Cost-per-lead (CPL): Completion of a registration form, subscription t...</span></span></span>
+This distinction matters because [affiliate revenue]({{ 'untitled/revenue-leaks/' | relative_url }}) depends on measurable actions. Awin describes affiliate compensation models as performance-based, typically tied to sales, leads, or clicks rather than raw pageviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/affiliate-marketing/conversion-rate-optimisation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">conversion rate optimisation</span><span class="citation-popover-snippet">What is conversion rate optimisation?6 Jan 2022 — As a general guideline, conversion rates of 0.5% to 1% are considered average for affil...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.awin.com/gb/how-to-use-awin/diverse-affiliate-payment-methods" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: awin.com">[Awin]</a><span class="citation-popover" role="note"><span class="citation-popover-source">awin.com</span><span class="citation-popover-title">diverse affiliate payment methods</span><span class="citation-popover-snippet">AwinUnderstanding Affiliate Marketing Payment Methods18 Nov 2022 — Cost-per-lead (CPL): Completion of a registration form, subscription t...</span></span></span>
 
 For large-scale website systems, this creates a practical rule:
 
@@ -290,7 +297,7 @@ The strongest commercial signals usually include:
 
 Search patternTypical visitor mindsetBest page type“best X”Choosing between optionsRanked comparison page“X vs Y”Narrowing alternativesHead-to-head comparison“is X worth it”Risk reduction before purchaseReview page“best X for Y”Product matching to use caseBuyer guide“X review”Validation before spendingDetailed review“cheapest X”Price-sensitive purchase intentDeal or pricing page“X alternatives”Replacing or comparing brandsAlternative comparison page
 
-Search-intent research consistently separates informational, commercial, and transactional behaviour because users searching with commercial modifiers are evaluating products rather than simply learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seranking.com/blog/search-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seranking.com">[SE Ranking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seranking.com</span><span class="citation-popover-snippet">SE RankingThe 6 Types of Search Intent (Including the New...Traditionally, SEO recognized five search intent types (informational, navig...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatape.digital/articles/seo/search-intent-explained-informational-vs-commercial-vs-transactional/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatape.digital">[Great Ape Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatape.digital</span><span class="citation-popover-title">search intent explained informational vs commercial vs transactional</span><span class="citation-popover-snippet">Great Ape DigitalSearch Intent Explained: Informational vs Commercial vs...11 Mar 2026 — Search intent explained: understand information...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[Semrush Commercial investigation queries also tend to produce better downstream metrics:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">types of keywords commercial informational navigational transactional</span><span class="citation-popover-snippet">4 Types of Keywords in SEO (+ Examples)21 Jan 2025 — The different types of keywords for SEO are informational, navigational, commercial...</span></span></span>
+Search-intent research consistently separates informational, commercial, and transactional behaviour because users searching with commercial modifiers are evaluating products rather than simply learning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seranking.com/blog/search-intent/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seranking.com">[SE Ranking]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seranking.com</span><span class="citation-popover-snippet">SE RankingThe 6 Types of Search Intent (Including the New...Traditionally, SEO recognized five search intent types (informational, navig...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.greatape.digital/articles/seo/search-intent-explained-informational-vs-commercial-vs-transactional/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: greatape.digital">[Great Ape Digital]</a><span class="citation-popover" role="note"><span class="citation-popover-source">greatape.digital</span><span class="citation-popover-title">search intent explained informational vs commercial vs transactional</span><span class="citation-popover-snippet">Great Ape DigitalSearch Intent Explained: Informational vs Commercial vs...11 Mar 2026 — Search intent explained: understand information...</span></span></span> Semrush Commercial investigation queries also tend to produce better downstream metrics: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.semrush.com/blog/types-of-keywords-commercial-informational-navigational-transactional/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: semrush.com">[semrush.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">semrush.com</span><span class="citation-popover-title">types of keywords commercial informational navigational transactional</span><span class="citation-popover-snippet">4 Types of Keywords in SEO (+ Examples)21 Jan 2025 — The different types of keywords for SEO are informational, navigational, commercial...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
@@ -309,7 +316,7 @@ This is why many affiliate websites earn most of their revenue from a relatively
 
 Informational traffic is not useless. In many niches it provides the scale, trust, and topical breadth needed for the commercial pages to rank.
 
-The mistake is assuming informational pages should monetise in the same way as [comparison pages]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1/' | relative_url }}).
+The mistake is assuming informational pages should monetise in the same way as [comparison pages]({{ 'untitled/comparison-pages/' | relative_url }}).
 
 A tutorial page about “how to clean leather boots” may support affiliate revenue indirectly by:
 
@@ -330,7 +337,7 @@ But aggressively monetising that page with repeated affiliate buttons often harm
 Informational pages usually work better with lighter monetisation patterns such as:
 
 * a single contextual product mention
-* subtle [comparison tables]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-comparison-tables-cl-5eb30a/' | relative_url }})
+* subtle [comparison tables]({{ 'untitled/tables/' | relative_url }})
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,7 +367,7 @@ That changes what works on the page.
 A commercial investigation page can support:
 
 * prominent affiliate buttons
-* comparison [tables]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-comparison-tables-cl-5eb30a/' | relative_url }})
+* comparison [tables]({{ 'untitled/tables/' | relative_url }})
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -390,7 +397,7 @@ is actively filtering options before buying.
 Those pages should therefore prioritise:
 
 1. rapid product comparison
-2. trust-building [evidence]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-evidence-blocks-affi-b0d439/' | relative_url }})
+2. trust-building [evidence]({{ 'untitled/evidence/' | relative_url }})
 3. clear recommendations
 4. merchant clicks
 
@@ -399,7 +406,7 @@ This is where affiliate monetisation becomes most efficient because the page int
 Research around keyword intent repeatedly shows that commercial and transactional searches convert more effectively than purely informational searches because the user is further along the buying journey. Great Ape Digital <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.practicalecommerce.com/4-Types-of-Keyword-Intent-That-Impact-Search-Marketing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: practicalecommerce.com">[Practical Ecommerce]</a><span class="citation-popover" role="note"><span class="citation-popover-source">practicalecommerce.com</span><span class="citation-popover-title">4 Types of Keyword Intent That Impact Search Marketing</span><span class="citation-popover-snippet">3 Apr 2017 — While keywords with informational intent are not likely to lead to a sale immediately, they represent an opportunity to enga...</span></span></span>
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-2-dark.svg" | relative_url }}" alt="Traffic Value illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-2-light.svg" | relative_url }}" alt="Traffic Value illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to classify pages by revenue potential
 
 For scalable affiliate publishing, every page should effectively belong to a monetisation class.
@@ -421,7 +428,7 @@ Without this separation, websites often overproduce low-value educational traffi
 The result is impressive traffic dashboards with weak affiliate earnings.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IQbSmeFAtXE" title="10 Best Affiliate Marketing Tools and Plugins for WordPress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IQbSmeFAtXE" target="_blank" rel="noopener noreferrer">10 Best Affiliate Marketing Tools and Plugins for WordPress</a></p><p class="youtube-embed-meta">Channel: WPBeginner - WordPress Tutorials &middot; Views: 23.5K &middot; Uploaded: March 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IQbSmeFAtXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IQbSmeFAtXE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O_FfdjNOgpQ" title="Watch &amp; Learn EXACTLY How To Research Keywords Like A PRO!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O_FfdjNOgpQ" target="_blank" rel="noopener noreferrer">Watch &amp; Learn EXACTLY How To Research Keywords Like A PRO!</a></p><p class="youtube-embed-meta">Channel: Miles Beckler &middot; Views: 177.0K &middot; Uploaded: March 2017 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O_FfdjNOgpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O_FfdjNOgpQ">Open on YouTube</a></p></div></div></div>
 
 ## Internal links are what turn learning traffic into buying traffic
 
@@ -467,7 +474,7 @@ Not:
 > Does this page get traffic?
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-3-dark.svg" | relative_url }}" alt="Traffic Value illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-3-light.svg" | relative_url }}" alt="Traffic Value illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_buyer_intent_revenue_fe10e4_traffic_vs_sales_int_2b88c4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common monetisation mistakes
 
 Several recurring mistakes blur the line between informational and affiliate sales traffic.
@@ -498,13 +505,13 @@ For example:
 These searches often support hybrid pages:
 
 * educational opening sections
-* buying [criteria]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-category-specific-cr-a92f21/' | relative_url }}) explanations
+* buying [criteria]({{ 'untitled/criteria/' | relative_url }}) explanations
 * product recommendations later in the page
 
 Hybrid intent pages are often some of the highest-value affiliate assets because they capture users transitioning from confusion into evaluation.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O_FfdjNOgpQ" title="Watch &amp; Learn EXACTLY How To Research Keywords Like A PRO!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O_FfdjNOgpQ" target="_blank" rel="noopener noreferrer">Watch &amp; Learn EXACTLY How To Research Keywords Like A PRO!</a></p><p class="youtube-embed-meta">Channel: Miles Beckler &middot; Views: 177.0K &middot; Uploaded: March 2017 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O_FfdjNOgpQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O_FfdjNOgpQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IQbSmeFAtXE" title="10 Best Affiliate Marketing Tools and Plugins for WordPress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IQbSmeFAtXE" target="_blank" rel="noopener noreferrer">10 Best Affiliate Marketing Tools and Plugins for WordPress</a></p><p class="youtube-embed-meta">Channel: WPBeginner - WordPress Tutorials &middot; Views: 23.5K &middot; Uploaded: March 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IQbSmeFAtXE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IQbSmeFAtXE">Open on YouTube</a></p></div></div></div>
 
 ### Chasing traffic instead of revenue density
 
@@ -758,15 +765,14 @@ For affiliate publishers, that means informational pages should genuinely educat
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/039c77f0cf6595c692e8.jpg' | relative_url }}" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcG_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Direct pick &middot; High appeal</p>
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
         </h4>
         <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-        <p class="fr-book-desc">Directly covers affiliate marketing fundamentals, traffic generation, monetisation, niches, and building affiliate websites.</p>
+        <p class="fr-book-desc">Directly covers affiliate websites, traffic, niches, monetisation, commissions, and practical setup for affiliate content businesses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -776,17 +782,16 @@ For affiliate publishers, that means informational pages should genuinely educat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/e4acbeb4395006515fc0.jpg' | relative_url }}" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Nothing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hf9bzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for From Nothing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Nothing">From Nothing</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Ian Pribyl</p>
         
-        <p class="fr-book-desc">Useful for understanding conversion funnels, offer structure, landing pages, and monetising traffic from affiliate sites.</p>
+        <p class="fr-book-desc">Covers affiliate marketing, blogging, online business models, and website monetisation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -794,17 +799,16 @@ For affiliate publishers, that means informational pages should genuinely educat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traffic Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/aad589469e9a3c293c37.jpg' | relative_url }}" alt="Cover for Traffic Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1-Page Marketing Plan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVOJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1-Page Marketing Plan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traffic Secrets">Traffic Secrets</a>
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Allan Dib</p>
         
-        <p class="fr-book-desc">Highly relevant for affiliate websites because traffic acquisition is central to monetisation.</p>
+        <p class="fr-book-desc">Helps affiliate-site owners structure acquisition, conversion, and customer journeys.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -812,156 +816,8 @@ For affiliate publishers, that means informational pages should genuinely educat
     </article>
     </div>
     <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing%2C+Website+Monetisation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Browse more on Amazon
-      </a>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=affiliate+marketing+poster+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">affiliate marketing poster guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=blogging+entrepreneur+mug+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">blogging entrepreneur mug guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=digital+marketing+wall+art+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">digital marketing wall art guide</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/b61377085cf161584ef2.jpg' | relative_url }}" alt="Listing image for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor"><img src="{{ '/assets/images/marketplace-covers/1599f6e6909fda64c35b.jpg' | relative_url }}" alt="Listing image for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor</a>
-        </h4>
-        <p class="fr-book-author">New | blumics (97.1% positive)</p>
-        <p class="fr-book-popularity">USD 10.00 | Free shipping | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/cc4538a680050cd19985.jpg' | relative_url }}" alt="Listing image for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 300.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/e02f5a0779888f794fe4.jpg' | relative_url }}" alt="Listing image for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-buyer-intent-reve-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function inferMarket(available) {
-    try {
-      var saved = window.localStorage && localStorage.getItem('phoenix-ebay-market');
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var language = normalize((navigator.languages && navigator.languages[0]) || navigator.language || '');
-    if ((language === 'en-gb' || language.endsWith('-gb') || language === 'en-ie') && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-    if ((language === 'en-us' || language.endsWith('-us')) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    try {
-      var tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
-      if (/Europe\/(London|Belfast)/.test(tz) && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-      if (/^America\//.test(tz) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    } catch (err) {}
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var buttons = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'));
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (buttons.length < 2 || panels.length < 2) return;
-    var available = buttons.map(function (button) { return button.getAttribute('data-ebay-market-button'); }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      buttons.forEach(function (button) {
-        var active = button.getAttribute('data-ebay-market-button') === marketId;
-        button.setAttribute('aria-pressed', active ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-    }
-    buttons.forEach(function (button) {
-      button.addEventListener('click', function () {
-        selectMarket(button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>

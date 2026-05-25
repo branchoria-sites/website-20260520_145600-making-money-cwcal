@@ -1792,6 +1792,14 @@
         }
         syncBodyState();
       });
+
+      var interactiveItems = menu.querySelectorAll(".topics-menu-panel a, .topics-menu-panel button");
+      Array.prototype.forEach.call(interactiveItems, function (item) {
+        item.addEventListener("click", function () {
+          closeMenu(menu);
+          syncBodyState();
+        });
+      });
     });
 
     document.addEventListener("click", function (event) {

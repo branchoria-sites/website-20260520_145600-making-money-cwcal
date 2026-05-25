@@ -2,6 +2,7 @@
   {% assign ui = page.ui_strings | default: site.ui_strings %}
   {% assign current_url = page.url | default: '' %}
   {% assign is_home_page = current_url == '/' %}
+  {% assign page_parent_label = page.parent_nav_short_title | default: page.parent_title %}
   <div class="container header-inner">
     <div class="brand-block">
       <a class="site-title" href="{{ '/' | relative_url }}">
@@ -30,7 +31,7 @@
             </svg>
           </span>
           <span class="brand-copy">
-            <span class="brand-name">{{ site.brand_name | default: 'Topic Canopy' }}</span>
+            <span class="brand-name">{{ site.brand_name | default: 'Branchoria' }}</span>
             <span class="site-title-full">{{ site.title | default: 'Research Topic Tree' }}</span>
             <span class="site-title-short">{{ site.short_title | default: site.title | default: 'Research Topic Tree' }}</span>
           </span>
@@ -58,7 +59,16 @@
         </div>
       </details>
       {% endif %}
+      {% unless is_home_page %}
+      <button class="nav-pill nav-pill-button article-header-pill article-header-contents" type="button" data-mobile-sidebar-open aria-expanded="false" aria-controls="page-sidebar">{{ ui.contents | default: 'Contents' }}</button>
+      {% if page.parent_permalink and page_parent_label %}
+      <a class="nav-pill article-header-pill article-header-parent" href="{{ page.parent_permalink | relative_url }}" title="{{ page.parent_title | default: page_parent_label | escape }}">{{ ui.parent | default: 'Parent' }}</a>
+      {% endif %}
+      {% endunless %}
       <button class="nav-pill nav-pill-button site-search-nav-button" type="button" data-site-search-open aria-haspopup="dialog" aria-expanded="false">{{ ui.search | default: 'Search' }}</button>
+      {% unless is_home_page %}
+      <button class="nav-pill nav-pill-button article-header-pill article-header-outline" type="button" data-mobile-page-tools-toggle>{{ ui.outline | default: 'Outline' }}</button>
+      {% endunless %}
       <button class="theme-toggle" type="button" data-theme-toggle aria-label="{{ ui.switch_theme | default: 'Switch theme' | escape }}" title="{{ ui.switch_theme | default: 'Switch theme' | escape }}">
         <svg class="icon icon-sun" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
           <circle cx="12" cy="12" r="4"></circle>

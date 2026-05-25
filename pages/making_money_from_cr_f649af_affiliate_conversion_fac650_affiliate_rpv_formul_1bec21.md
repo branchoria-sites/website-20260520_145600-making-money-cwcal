@@ -8,20 +8,23 @@ sibling_basenames:
 - making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_revenue_le_8c2b2f
 - making_money_from_cr_f649af_affiliate_conversion_fac650_merchant_fit_vs_comm_77bfd0
 - making_money_from_cr_f649af_affiliate_conversion_fac650_mobile_sticky_ctas_acaf5a
-tags: &id001
+tags:
 - making-money-from-creating-websites-containing-aff
 - affiliate-cro
 - rpv-formula
-keywords: *id001
+keywords:
+- making-money-from-creating-websites-containing-aff
+- affiliate-cro
+- rpv-formula
 affiliate_category: making-money-from-creating-websites-containing-aff
 show_ads: true
 description: Revenue per visitor shows which affiliate pages truly earn by combining clicks, merchant conversion, commission value, and approval rate.
 hero_summary: Revenue per visitor shows which affiliate pages truly earn by combining clicks, merchant conversion, commission value, and approval rate.
 layout: default
-permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-affiliate-rpv-formul-1bec21/
+permalink: /untitled/rpv-formula/
 nav_short_title: RPV formula
-title: RPV formula
-title_full: RPV formula | Affiliate CRO
+title: Revenue per visitor formula
+title_full: Revenue per visitor formula | Affiliate CRO
 display_title_short: RPV formula
 display_title: RPV formula
 heading_title: Revenue per visitor formula
@@ -192,60 +195,64 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-book_search_hint: affiliate marketing, conversion optimisation
-parent_title: Affiliate CRO | Making Money From Creating Websites Containing Affiliate Links
-parent_permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650/
+date: '2026-05-20 21:58:56'
+parent_title: Conversion Optimisation for Affiliates | Affiliate Website Revenue
+parent_permalink: /untitled/affiliate-cro/
 parent_nav_short_title: Affiliate CRO
 ancestor_links:
-- &id002
-  basename: making_money_from_cr_f649af
+- basename: making_money_from_cr_f649af
   title: Affiliate Website Revenue
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af/
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
   short_title: Affiliate Website Revenue
-- &id003
-  basename: making_money_from_cr_f649af_affiliate_conversion_fac650
+- basename: making_money_from_cr_f649af_affiliate_conversion_fac650
   title: Affiliate CRO | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650/
+  permalink: /untitled/affiliate-cro/
   short_title: Affiliate CRO
 breadcrumb_links:
-- *id002
-- *id003
+- basename: making_money_from_cr_f649af
+  title: Affiliate Website Revenue
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
+  short_title: Affiliate Website Revenue
+- basename: making_money_from_cr_f649af_affiliate_conversion_fac650
+  title: Affiliate CRO | Making Money From Creating Websites Containing Affiliate Links
+  permalink: /untitled/affiliate-cro/
+  short_title: Affiliate CRO
 sibling_links:
 - basename: making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_cta_wordin_22d0f5
   title: CTA tests | Affiliate CRO
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-affiliate-cta-wordin-22d0f5/
+  permalink: /untitled/cta-tests/
   short_title: CTA tests
 - basename: making_money_from_cr_f649af_affiliate_conversion_fac650_merchant_fit_vs_comm_77bfd0
   title: Merchant fit | Affiliate CRO
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-merchant-fit-vs-comm-77bfd0/
+  permalink: /untitled/merchant-fit/
   short_title: Merchant fit
 - basename: making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_revenue_le_8c2b2f
   title: Revenue leaks | Affiliate CRO
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-affiliate-revenue-le-8c2b2f/
+  permalink: /untitled/revenue-leaks/
   short_title: Revenue leaks
 - basename: making_money_from_cr_f649af_affiliate_conversion_fac650_mobile_sticky_ctas_acaf5a
   title: Sticky CTAs | Affiliate CRO
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-mobile-sticky-ctas-acaf5a/
+  permalink: /untitled/sticky-ctas/
   short_title: Sticky CTAs
 up_link:
   basename: making_money_from_cr_f649af_affiliate_conversion_fac650
   title: Affiliate CRO | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650/
+  permalink: /untitled/affiliate-cro/
   short_title: Affiliate CRO
 prev_link:
   basename: making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_revenue_le_8c2b2f
   title: Revenue leaks | Affiliate CRO
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-affiliate-revenue-le-8c2b2f/
+  permalink: /untitled/revenue-leaks/
   short_title: Revenue leaks
 next_link:
   basename: making_money_from_cr_f649af_affiliate_conversion_fac650_mobile_sticky_ctas_acaf5a
   title: Sticky CTAs | Affiliate CRO
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-mobile-sticky-ctas-acaf5a/
+  permalink: /untitled/sticky-ctas/
   short_title: Sticky CTAs
-date: '2026-05-20 21:58:56 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-1-social.png
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-1.png
+image: /assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-1-social.png
 ---
 
 ## Introduction
@@ -253,16 +260,16 @@ header:
 Revenue per visitor (RPV) is one of the most useful commercial metrics for affiliate websites because it measures how much approved commission a page generates for each visitor who lands on it. Unlike traffic, rankings, or raw affiliate clicks, RPV connects the entire monetisation chain into a single number. It shows whether a page attracts commercially valuable visitors and whether the offer, merchant, and page structure convert that intent into actual earnings.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-1-dark.svg" | relative_url }}" alt="RPV formula illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-1-light.svg" | relative_url }}" alt="RPV formula illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For affiliate pages, the core calculation is simple:
 
-RPV=Approved Affiliate RevenueVisitorsRPV = \frac{\text{Approved [Affiliate Revenue]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-affiliate-revenue-le-8c2b2f/' | relative_url }})&#125;&#125;{\text{Visitors&#125;&#125;RPV=VisitorsApproved Affiliate Revenue​
+RPV=Approved Affiliate RevenueVisitorsRPV = \frac{\text{Approved [Affiliate Revenue]({{ 'untitled/revenue-leaks/' | relative_url }})&#125;&#125;{\text{Visitors&#125;&#125;RPV=VisitorsApproved Affiliate Revenue​
 
-But useful affiliate RPV analysis goes further than a basic division formula. A commercially accurate calculation must include click-through rate, merchant conversion rate, commission value, and approval rate. That turns RPV from a vanity metric into a decision-making tool for choosing [page types]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-affiliate-page-types-956d68/' | relative_url }}), affiliate offers, internal links, and expansion opportunities across a site.
+But useful affiliate RPV analysis goes further than a basic division formula. A commercially accurate calculation must include click-through rate, merchant conversion rate, commission value, and approval rate. That turns RPV from a vanity metric into a decision-making tool for choosing [page types]({{ 'untitled/page-types/' | relative_url }}), affiliate offers, internal links, and expansion opportunities across a site.
 
 ## Why traffic and clicks are incomplete signals
 
-Affiliate sites often overvalue traffic growth because traffic is easy to measure. A page with 50,000 monthly visitors can still earn less than a page with 2,000 visitors if the larger page attracts weak commercial intent or sends visitors to poorly converting [merchants]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-multiple-merchant-li-625ce1/' | relative_url }}).
+Affiliate sites often overvalue traffic growth because traffic is easy to measure. A page with 50,000 monthly visitors can still earn less than a page with 2,000 visitors if the larger page attracts weak commercial intent or sends visitors to poorly converting [merchants]({{ 'untitled/merchants/' | relative_url }}).
 
 Clicks alone are also misleading. Affiliate dashboards frequently emphasise EPC (earnings per click), which measures average earnings generated from affiliate clicks. Post Affiliate Pro <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerstack.com">[PartnerStack EPC is useful]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerstack.com</span><span class="citation-popover-snippet">Earnings Per Click (EPC) Definition &amp; MeaningEarnings per click (EPC) is a key performance indicator in affiliate marketing that measures...</span></span></span>, but it only measures value after the visitor has already clicked an affiliate link. It does not tell you how efficiently the page itself converts visitors into commercially useful actions.
 
@@ -282,7 +289,7 @@ RPV combines these factors into one commercially meaningful metric.
 
 For affiliate website systems, this matters because scaling decisions should be based on revenue efficiency, not raw visibility. A template that earns 18p per visitor is usually more valuable than one that earns 2p per visitor, even if the lower-performing page receives more traffic.
 
-This distinction changes how successful page types are identified. A broad informational article may help [internal linking]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-internal-l-d8b176/' | relative_url }}) and topical coverage, but a tightly focused “best”, “comparison”, or “alternatives” page may generate far higher RPV because the user is already close to purchase intent.
+This distinction changes how successful page types are identified. A broad informational article may help internal linking and topical coverage, but a tightly focused “best”, “comparison”, or “alternatives” page may generate far higher RPV because the user is already close to purchase intent.
 
 ## The four numbers needed for revenue per visitor
 
@@ -315,7 +322,7 @@ CTR is heavily influenced by:
 * Comparison clarity
 * Mobile usability
 * Trust signals
-* Call-to-action [wording]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11-clear-affiliate-word-ac25e8/' | relative_url }})
+* Call-to-action [wording]({{ 'untitled/wording/' | relative_url }})
 
 A page answering “best cordless lawn mower for small gardens” will usually produce a higher affiliate CTR than a broad educational article about lawn care because the visitor arrives closer to a buying decision.
 
@@ -358,7 +365,7 @@ That means a page sending traffic to a weak merchant can produce poor RPV even w
 For affiliate site operators, this creates an important commercial rule: pages should not only be matched to keywords, but also to merchants that convert well for that intent type.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FE7ezniiOT0" title="AI-Powered Affiliate Marketing — Full Course for Beginners (2026)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FE7ezniiOT0" target="_blank" rel="noopener noreferrer">AI-Powered Affiliate Marketing — Full Course for Beginners (2026)</a></p><p class="youtube-embed-meta">Channel: Hasan Aboul Hasan &middot; Views: 664.3K &middot; Uploaded: September 2025 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FE7ezniiOT0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FE7ezniiOT0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FE7ezniiOT0" title="AI-Powered Affiliate Marketing — Full Course for Beginners (2026)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FE7ezniiOT0" target="_blank" rel="noopener noreferrer">AI-Powered Affiliate Marketing — Full Course for Beginners (2026)</a></p><p class="youtube-embed-meta">Channel: Hasan Aboul Hasan &middot; Views: 670.6K &middot; Uploaded: September 2025 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FE7ezniiOT0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FE7ezniiOT0">Open on YouTube</a></p></div></div></div>
 
 ### Average commission value
 
@@ -386,7 +393,7 @@ Higher commission rates do not automatically produce better RPV.
 
 A merchant paying 12% commission on low-converting products may earn less overall than a merchant paying 4% commission with excellent checkout conversion and strong average order values.
 
-This is why affiliate [offer selection]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4/' | relative_url }}) should be evaluated using complete RPV data rather than commission percentages alone.
+This is why affiliate [offer selection]({{ 'untitled/offer-selection/' | relative_url }}) should be evaluated using complete RPV data rather than commission percentages alone.
 
 ### Approval rate
 
@@ -421,7 +428,7 @@ For scalable affiliate operations, approval-rate analysis is critical because ap
 A page earning £500 tracked revenue with a 40% approval rate is commercially weaker than a page earning £350 tracked revenue with a 95% approval rate.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-2-dark.svg" | relative_url }}" alt="RPV formula illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-2-light.svg" | relative_url }}" alt="RPV formula illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Worked examples for judging page value
 
 ### Example 1: High traffic but weak RPV
@@ -467,7 +474,7 @@ This commonly happens with educational queries that attract curiosity rather tha
 
 ### Example 2: Lower traffic but stronger intent
 
-A [focused comparison]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-focused-comparison-s-8fca36/' | relative_url }}) page receives:
+A [focused comparison]({{ 'untitled/scope-control/' | relative_url }}) page receives:
 
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
@@ -499,7 +506,7 @@ Although traffic is far lower, the page is dramatically more valuable because in
 For affiliate website systems, this is the key scaling insight. Expanding commercially strong page patterns usually outperforms endlessly chasing more traffic to weak-intent pages.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-3-dark.svg" | relative_url }}" alt="RPV formula illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-3-light.svg" | relative_url }}" alt="RPV formula illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_conversion_fac650_affiliate_rpv_formul_1bec21-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How RPV changes content decisions
 
 Once affiliate pages are judged by RPV rather than page views, content strategy changes substantially.
@@ -525,7 +532,7 @@ Internal links should not only distribute authority. They should move users towa
 
 Examples include:
 
-* Informational pages linking into [comparison pages]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1/' | relative_url }})
+* Informational pages linking into [comparison pages]({{ 'untitled/comparison-pages/' | relative_url }})
 * Troubleshooting pages linking into replacement-product pages
 * Review pages linking into merchant comparisons
 * “How it works” articles linking into buying guides
@@ -584,7 +591,7 @@ Revenue per visitor is not only a finance metric. It is a page-quality metric be
 
 High-RPV pages usually share common traits:
 
-* Strong intent matching
+* Strong [intent matching]({{ 'untitled/intent-matching/' | relative_url }})
 * Clear commercial framing
 * Relevant affiliate offers
 * Trustworthy recommendations
@@ -718,15 +725,14 @@ Traffic explains reach. Clicks explain engagement. Revenue per visitor explains 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/039c77f0cf6595c692e8.jpg' | relative_url }}" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcG_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Direct pick &middot; High appeal</p>
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
         </h4>
         <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-        <p class="fr-book-desc">Directly covers affiliate marketing fundamentals, traffic generation, monetisation, niches, and building affiliate websites.</p>
+        <p class="fr-book-desc">Directly covers affiliate websites, traffic, niches, monetisation, commissions, and practical setup for affiliate content businesses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -736,17 +742,16 @@ Traffic explains reach. Clicks explain engagement. Revenue per visitor explains 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/e4acbeb4395006515fc0.jpg' | relative_url }}" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Nothing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hf9bzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for From Nothing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Nothing">From Nothing</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Ian Pribyl</p>
         
-        <p class="fr-book-desc">Useful for understanding conversion funnels, offer structure, landing pages, and monetising traffic from affiliate sites.</p>
+        <p class="fr-book-desc">Covers affiliate marketing, blogging, online business models, and website monetisation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -754,17 +759,16 @@ Traffic explains reach. Clicks explain engagement. Revenue per visitor explains 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traffic Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/aad589469e9a3c293c37.jpg' | relative_url }}" alt="Cover for Traffic Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1-Page Marketing Plan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVOJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1-Page Marketing Plan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traffic Secrets">Traffic Secrets</a>
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Allan Dib</p>
         
-        <p class="fr-book-desc">Highly relevant for affiliate websites because traffic acquisition is central to monetisation.</p>
+        <p class="fr-book-desc">Helps affiliate-site owners structure acquisition, conversion, and customer journeys.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -772,156 +776,8 @@ Traffic explains reach. Clicks explain engagement. Revenue per visitor explains 
     </article>
     </div>
     <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing%2C+Conversion+Optimisation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Browse more on Amazon
-      </a>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=affiliate+marketing+poster+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">affiliate marketing poster guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=blogging+entrepreneur+mug+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">blogging entrepreneur mug guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=digital+marketing+wall+art+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">digital marketing wall art guide</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/b61377085cf161584ef2.jpg' | relative_url }}" alt="Listing image for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor"><img src="{{ '/assets/images/marketplace-covers/1599f6e6909fda64c35b.jpg' | relative_url }}" alt="Listing image for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor</a>
-        </h4>
-        <p class="fr-book-author">New | blumics (97.1% positive)</p>
-        <p class="fr-book-popularity">USD 10.00 | Free shipping | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/cc4538a680050cd19985.jpg' | relative_url }}" alt="Listing image for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 300.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/e02f5a0779888f794fe4.jpg' | relative_url }}" alt="Listing image for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-convers-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function inferMarket(available) {
-    try {
-      var saved = window.localStorage && localStorage.getItem('phoenix-ebay-market');
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var language = normalize((navigator.languages && navigator.languages[0]) || navigator.language || '');
-    if ((language === 'en-gb' || language.endsWith('-gb') || language === 'en-ie') && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-    if ((language === 'en-us' || language.endsWith('-us')) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    try {
-      var tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
-      if (/Europe\/(London|Belfast)/.test(tz) && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-      if (/^America\//.test(tz) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    } catch (err) {}
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var buttons = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'));
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (buttons.length < 2 || panels.length < 2) return;
-    var available = buttons.map(function (button) { return button.getAttribute('data-ebay-market-button'); }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      buttons.forEach(function (button) {
-        var active = button.getAttribute('data-ebay-market-button') === marketId;
-        button.setAttribute('aria-pressed', active ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-    }
-    buttons.forEach(function (button) {
-      button.addEventListener('click', function () {
-        selectMarket(button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>

@@ -1,11 +1,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-  {% if page.description %}
-  <meta name="description" content="{{ page.description | escape }}">
-  {% elsif site.description %}
-  <meta name="description" content="{{ site.description | escape }}">
+  {% if page.robots %}
+  <meta name="robots" content="{{ page.robots | escape }}">
   {% endif %}
   {% seo %}
   <script>
@@ -60,5 +57,13 @@
   <script src="{{ '/assets/js/search-index.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
   <script src="{{ '/assets/js/page-enhancements.js' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}" defer></script>
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ site.ui_bundle_version | default: '1' | uri_escape }}">
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-67VRCP5C49"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag("js", new Date());
+    gtag("config", "G-67VRCP5C49");
+  </script>
 
 </head>

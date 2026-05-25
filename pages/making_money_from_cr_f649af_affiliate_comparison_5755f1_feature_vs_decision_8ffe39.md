@@ -8,20 +8,23 @@ sibling_basenames:
 - making_money_from_cr_f649af_affiliate_comparison_5755f1_direct_comparison_ve_4d6212
 - making_money_from_cr_f649af_affiliate_comparison_5755f1_focused_comparison_s_8fca36
 - making_money_from_cr_f649af_affiliate_comparison_5755f1_side_by_side_compari_7c4125
-tags: &id001
+tags:
 - making-money-from-creating-websites-containing-aff
 - comparison-pages
 - decision-fit
-keywords: *id001
+keywords:
+- making-money-from-creating-websites-containing-aff
+- comparison-pages
+- decision-fit
 affiliate_category: making-money-from-creating-websites-containing-aff
 show_ads: true
 description: Turning specifications into buying advice is what separates a useful affiliate comparison from a copied product table.
 hero_summary: Turning specifications into buying advice is what separates a useful affiliate comparison from a copied product table.
 layout: default
-permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-feature-vs-decision-8ffe39/
+permalink: /untitled/decision-fit/
 nav_short_title: Decision Fit
-title: Decision Fit
-title_full: Decision Fit | Comparison Pages
+title: Feature Versus Decision Comparison
+title_full: Feature Versus Decision Comparison | Comparison Pages
 display_title_short: Decision Fit
 display_title: Decision Fit
 heading_title: Feature Versus Decision Comparison
@@ -192,60 +195,64 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-book_search_hint: affiliate marketing, buying decisions
-parent_title: Comparison Pages | Making Money From Creating Websites Containing Affiliate Links
-parent_permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1/
+date: '2026-05-20 21:57:50'
+parent_title: Affiliate Comparison Pages | Affiliate Website Revenue
+parent_permalink: /untitled/comparison-pages/
 parent_nav_short_title: Comparison Pages
 ancestor_links:
-- &id002
-  basename: making_money_from_cr_f649af
+- basename: making_money_from_cr_f649af
   title: Affiliate Website Revenue
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af/
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
   short_title: Affiliate Website Revenue
-- &id003
-  basename: making_money_from_cr_f649af_affiliate_comparison_5755f1
+- basename: making_money_from_cr_f649af_affiliate_comparison_5755f1
   title: Comparison Pages | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1/
+  permalink: /untitled/comparison-pages/
   short_title: Comparison Pages
 breadcrumb_links:
-- *id002
-- *id003
+- basename: making_money_from_cr_f649af
+  title: Affiliate Website Revenue
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
+  short_title: Affiliate Website Revenue
+- basename: making_money_from_cr_f649af_affiliate_comparison_5755f1
+  title: Comparison Pages | Making Money From Creating Websites Containing Affiliate Links
+  permalink: /untitled/comparison-pages/
+  short_title: Comparison Pages
 sibling_links:
 - basename: making_money_from_cr_f649af_affiliate_comparison_5755f1_category_specific_cr_a92f21
   title: Criteria | Comparison Pages
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-category-specific-cr-a92f21/
+  permalink: /untitled/criteria/
   short_title: Criteria
 - basename: making_money_from_cr_f649af_affiliate_comparison_5755f1_focused_comparison_s_8fca36
   title: Scope Control | Comparison Pages
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-focused-comparison-s-8fca36/
+  permalink: /untitled/scope-control/
   short_title: Scope Control
 - basename: making_money_from_cr_f649af_affiliate_comparison_5755f1_side_by_side_compari_7c4125
   title: Side by Side | Comparison Pages
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-side-by-side-compari-7c4125/
+  permalink: /untitled/side-by-side/
   short_title: Side by Side
 - basename: making_money_from_cr_f649af_affiliate_comparison_5755f1_direct_comparison_ve_4d6212
   title: Verdicts | Comparison Pages
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-direct-comparison-ve-4d6212/
+  permalink: /untitled/verdicts-50c825/
   short_title: Verdicts
 up_link:
   basename: making_money_from_cr_f649af_affiliate_comparison_5755f1
   title: Comparison Pages | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1/
+  permalink: /untitled/comparison-pages/
   short_title: Comparison Pages
 prev_link:
   basename: making_money_from_cr_f649af_affiliate_comparison_5755f1_category_specific_cr_a92f21
   title: Criteria | Comparison Pages
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-category-specific-cr-a92f21/
+  permalink: /untitled/criteria/
   short_title: Criteria
 next_link:
   basename: making_money_from_cr_f649af_affiliate_comparison_5755f1_focused_comparison_s_8fca36
   title: Scope Control | Comparison Pages
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1-focused-comparison-s-8fca36/
+  permalink: /untitled/scope-control/
   short_title: Scope Control
-date: '2026-05-20 21:57:50 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-1-social.png
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-1.png
+image: /assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-1-social.png
 ---
 
 ## Introduction
@@ -253,10 +260,10 @@ header:
 A product comparison page becomes commercially valuable when it helps a reader make a decision, not when it simply republishes specifications. Many weak affiliate pages fail because they stop at feature comparison: battery size, screen refresh rate, suction power, storage limits, or subscription pricing. The visitor can already see much of that information on retailer pages or manufacturer sites. What they actually need is help understanding the buying consequence of those differences.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-1-dark.svg" | relative_url }}" alt="Decision Fit illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters directly to [affiliate revenue]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-affiliate-revenue-le-8c2b2f/' | relative_url }}). A feature-only page often produces low trust, weak differentiation, and poor conversion because the reader still has unresolved uncertainty after reading it. A decision-led comparison reduces uncertainty by translating technical differences into outcomes such as lower long-term cost, easier maintenance, quieter operation, fewer compatibility issues, or better fit for a specific type of buyer. Google’s reviews guidance repeatedly emphasises insightful analysis, meaningful comparisons, and [evidence]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-evidence-blocks-affi-b0d439/' | relative_url }}) that the reviewer understands how products differ in real use rather than simply restating specifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pageonepower.com/linkarati/seo-best-practices-for-product-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pageonepower.com">[2pageonepower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pageonepower.com</span><span class="citation-popover-title">seo best practices for product reviews</span><span class="citation-popover-snippet">If a product has some...Read more...</span></span></span>
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-1-light.svg" | relative_url }}" alt="Decision Fit illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+That distinction matters directly to [affiliate revenue]({{ 'untitled/revenue-leaks/' | relative_url }}). A feature-only page often produces low trust, weak differentiation, and poor conversion because the reader still has unresolved uncertainty after reading it. A decision-led comparison reduces uncertainty by translating technical differences into outcomes such as lower long-term cost, easier maintenance, quieter operation, fewer compatibility issues, or better fit for a specific type of buyer. Google’s reviews guidance repeatedly emphasises insightful analysis, meaningful comparisons, and [evidence]({{ 'untitled/evidence/' | relative_url }}) that the reviewer understands how products differ in real use rather than simply restating specifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pageonepower.com/linkarati/seo-best-practices-for-product-reviews" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pageonepower.com">[2pageonepower.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pageonepower.com</span><span class="citation-popover-title">seo best practices for product reviews</span><span class="citation-popover-snippet">If a product has some...Read more...</span></span></span>
 
-For affiliate websites built at scale, this is one of the most important distinctions in comparison-page design. The winning pages are usually not the ones with the longest [tables]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-comparison-tables-cl-5eb30a/' | relative_url }}). They are the ones that help a reader say: “This is the right product for me.”
+For affiliate websites built at scale, this is one of the most important distinctions in comparison-page design. The winning pages are usually not the ones with the longest [tables]({{ 'untitled/tables/' | relative_url }}). They are the ones that help a reader say: “This is the right product for me.”
 
 ## What feature-only comparisons miss
 
@@ -272,7 +279,7 @@ This affects affiliate performance because decision-stage visitors are usually t
 
 Google’s reviews documentation consistently pushes publishers toward original insight, comparative framing, and evidence of practical understanding. Pages that merely summarise manufacturer claims risk looking interchangeable with hundreds of thin affiliate pages generated from the same public specifications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://developers.google.com/search/docs/appearance/reviews-system" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: developers.google.com">[Google for Developers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">developers.google.com</span><span class="citation-popover-snippet">Google for DevelopersGoogle Search&#x27;s Reviews SystemThe reviews system aims to better reward high quality reviews, which is content that p...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.google.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: google.com">[Search]</a><span class="citation-popover" role="note"><span class="citation-popover-source">google.com</span><span class="citation-popover-snippet">GoogleSearch the world&#x27;s information, including webpages, images, videos and more. Google has many special features to help you find exac...</span></span></span>
 
-This also explains why copied [comparison tables]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-comparison-tables-cl-5eb30a/' | relative_url }}) scale poorly over time. A system that mass-produces specification grids without contextual interpretation tends to create pages that are difficult to differentiate, vulnerable to algorithm changes, and commercially weak even when they rank.
+This also explains why copied comparison tables scale poorly over time. A system that mass-produces specification grids without contextual interpretation tends to create pages that are difficult to differentiate, vulnerable to algorithm changes, and commercially weak even when they rank.
 
 ## Why buying consequences outperform raw specifications
 
@@ -381,7 +388,7 @@ This matters for affiliate monetisation because friction reduction increases con
 
 ### Explain when a feature does not matter
 
-One of the strongest trust signals on [affiliate comparison pages]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1/' | relative_url }}) is selective de-emphasis.
+One of the strongest trust signals on [affiliate comparison pages]({{ 'untitled/comparison-pages/' | relative_url }}) is selective de-emphasis.
 
 Weak pages imply every specification matters equally because they are trying to justify the entire table. Strong pages explicitly tell readers when a difference is negligible.
 
@@ -395,7 +402,7 @@ It also improves scalability. A site-generation system that identifies “high-i
 
 ## Examples of decision-led wording for affiliate pages
 
-The [wording]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-disclosure-9d7a11-clear-affiliate-word-ac25e8/' | relative_url }}) style changes dramatically when the page focuses on decisions rather than features.
+The wording style changes dramatically when the page focuses on decisions rather than features.
 
 ### Weak specification-led phrasing
 
@@ -407,7 +414,7 @@ The [wording]({{ 'making-money-from-creating-websites-containing-aff/making-mone
 These statements are not false. They are simply incomplete.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-2-dark.svg" | relative_url }}" alt="Decision Fit illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-2-light.svg" | relative_url }}" alt="Decision Fit illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Stronger decision-led phrasing
 
 * “Laptop A is the safer choice if you regularly multitask with editing software or large browser sessions.”
@@ -422,14 +429,14 @@ The stronger versions do several things simultaneously:
 * reduce cognitive load
 * move the reader closer to a purchase decision
 
-This is especially useful for [affiliate conversion]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650/' | relative_url }}) because the recommendation feels earned rather than forced.
+This is especially useful for [affiliate conversion]({{ 'untitled/affiliate-cro/' | relative_url }}) because the recommendation feels earned rather than forced.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0G6IVPhbVvg" title="Google&#x27;s February 2023 Product Reviews Update: What Changed &amp; What to Do" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0G6IVPhbVvg" target="_blank" rel="noopener noreferrer">Google&#x27;s February 2023 Product Reviews Update: What Changed &amp; What to Do</a></p><p class="youtube-embed-meta">Channel: LinkBuilding HQ &middot; Views: 9.7K &middot; Uploaded: April 2023 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0G6IVPhbVvg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0G6IVPhbVvg">Open on YouTube</a></p></div></div></div>
 
 ### “Choose this if” blocks outperform neutral tables
 
-Many high-performing [comparison pages]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1/' | relative_url }}) eventually converge on buyer-fit framing because it matches decision intent.
+Many high-performing comparison pages eventually converge on buyer-fit framing because it matches decision intent.
 
 Examples:
 
@@ -448,7 +455,7 @@ Examples:
 This format works because readers often identify themselves faster through scenarios than through specifications.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-3-dark.svg" | relative_url }}" alt="Decision Fit illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-3-light.svg" | relative_url }}" alt="Decision Fit illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_comparison_5755f1_feature_vs_decision_8ffe39-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The risk of copied comparison content
 
 Feature-only affiliate pages are especially vulnerable to duplication because specifications are widely available and structurally similar across the web.
@@ -483,7 +490,7 @@ Even simple interpretive additions can create meaningful differentiation:
 Those judgments are difficult to reproduce mechanically from specification feeds alone.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p_kK-HK0Wv8" title="What is Copywriting? (Copywriting 101 For Beginners)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p_kK-HK0Wv8" target="_blank" rel="noopener noreferrer">What is Copywriting? (Copywriting 101 For Beginners)</a></p><p class="youtube-embed-meta">Channel: Adam Erhart</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p_kK-HK0Wv8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p_kK-HK0Wv8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9JBUTaCFV40" title="Affiliatable Litime Deal I Build High-Converting Product Comparison Tables &amp; Review Boxes in Minutes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9JBUTaCFV40" target="_blank" rel="noopener noreferrer">Affiliatable Litime Deal I Build High-Converting Product Comparison Tables &amp; Review Boxes in Minutes</a></p><p class="youtube-embed-meta">Channel: Appzone</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9JBUTaCFV40" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9JBUTaCFV40">Open on YouTube</a></p></div></div></div>
 
 ## Why this distinction matters for scalable affiliate systems
 
@@ -505,7 +512,7 @@ For example, a system can repeatedly identify patterns such as:
 
 Those recurring trade-offs are often more commercially important than the raw specifications themselves.
 
-This also improves internal linking opportunities. Decision-led comparisons naturally connect to adjacent monetisation pages:
+This also improves [internal linking]({{ 'untitled/internal-linking/' | relative_url }}) opportunities. Decision-led comparisons naturally connect to adjacent monetisation pages:
 
 * “best budget alternatives”
 * “best for small homes”
@@ -570,7 +577,7 @@ That distinction is often what separates a page that merely receives traffic fro
 
 6. <a id="endnote-6"></a>
    Source: support.google.com  
-   Link: [https://support.google.com/merchants/answer/14620705?hl=en](https://support.google.com/merchants/answer/14620705?hl=en)  
+   Link: [https://support.google.com/[merchants](https://support.google.com/[merchants)  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ratings basics - Google Merchant Center HelpThe Product Ratings program allows you to display aggregated reviews for your products to cus...</p></details>
 
 7. <a id="endnote-7"></a>
@@ -613,7 +620,7 @@ That distinction is often what separates a page that merely receives traffic fro
 13. <a id="endnote-13"></a>
    Source: affiliatexblocks.com  
    Link: [https://affiliatexblocks.com/blocks/product-comparison/](https://affiliatexblocks.com/blocks/product-comparison/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Product ComparisonCreate customizable product comparison tables with Affiliatex to showcase key features side by side and boost your affi...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Product ComparisonCreate customizable product comparison tables with Affiliatex to showcase key features [side by side](&amp;#123;&amp;#123; &#x27;untitled/side-by-side/&#x27; | relative_url &amp;#125;&amp;#125;) and boost your affi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
@@ -664,15 +671,14 @@ That distinction is often what separates a page that merely receives traffic fro
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/039c77f0cf6595c692e8.jpg' | relative_url }}" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcG_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Direct pick &middot; High appeal</p>
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
         </h4>
         <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-        <p class="fr-book-desc">Directly covers affiliate marketing fundamentals, traffic generation, monetisation, niches, and building affiliate websites.</p>
+        <p class="fr-book-desc">Directly covers affiliate websites, traffic, niches, monetisation, commissions, and practical setup for affiliate content businesses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -682,17 +688,16 @@ That distinction is often what separates a page that merely receives traffic fro
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/e4acbeb4395006515fc0.jpg' | relative_url }}" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Nothing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hf9bzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for From Nothing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Nothing">From Nothing</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Ian Pribyl</p>
         
-        <p class="fr-book-desc">Useful for understanding conversion funnels, offer structure, landing pages, and monetising traffic from affiliate sites.</p>
+        <p class="fr-book-desc">Covers affiliate marketing, blogging, online business models, and website monetisation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -700,17 +705,16 @@ That distinction is often what separates a page that merely receives traffic fro
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traffic Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/aad589469e9a3c293c37.jpg' | relative_url }}" alt="Cover for Traffic Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1-Page Marketing Plan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVOJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1-Page Marketing Plan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traffic Secrets">Traffic Secrets</a>
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Allan Dib</p>
         
-        <p class="fr-book-desc">Highly relevant for affiliate websites because traffic acquisition is central to monetisation.</p>
+        <p class="fr-book-desc">Helps affiliate-site owners structure acquisition, conversion, and customer journeys.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -718,156 +722,8 @@ That distinction is often what separates a page that merely receives traffic fro
     </article>
     </div>
     <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing%2C+Buying+Decisions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Browse more on Amazon
-      </a>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=affiliate+marketing+poster+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">affiliate marketing poster guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=blogging+entrepreneur+mug+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">blogging entrepreneur mug guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=digital+marketing+wall+art+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">digital marketing wall art guide</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/b61377085cf161584ef2.jpg' | relative_url }}" alt="Listing image for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor"><img src="{{ '/assets/images/marketplace-covers/1599f6e6909fda64c35b.jpg' | relative_url }}" alt="Listing image for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor</a>
-        </h4>
-        <p class="fr-book-author">New | blumics (97.1% positive)</p>
-        <p class="fr-book-popularity">USD 10.00 | Free shipping | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/cc4538a680050cd19985.jpg' | relative_url }}" alt="Listing image for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 300.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/e02f5a0779888f794fe4.jpg' | relative_url }}" alt="Listing image for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-compari-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function inferMarket(available) {
-    try {
-      var saved = window.localStorage && localStorage.getItem('phoenix-ebay-market');
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var language = normalize((navigator.languages && navigator.languages[0]) || navigator.language || '');
-    if ((language === 'en-gb' || language.endsWith('-gb') || language === 'en-ie') && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-    if ((language === 'en-us' || language.endsWith('-us')) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    try {
-      var tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
-      if (/Europe\/(London|Belfast)/.test(tz) && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-      if (/^America\//.test(tz) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    } catch (err) {}
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var buttons = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'));
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (buttons.length < 2 || panels.length < 2) return;
-    var available = buttons.map(function (button) { return button.getAttribute('data-ebay-market-button'); }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      buttons.forEach(function (button) {
-        var active = button.getAttribute('data-ebay-market-button') === marketId;
-        button.setAttribute('aria-pressed', active ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-    }
-    buttons.forEach(function (button) {
-      button.addEventListener('click', function () {
-        selectMarket(button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>

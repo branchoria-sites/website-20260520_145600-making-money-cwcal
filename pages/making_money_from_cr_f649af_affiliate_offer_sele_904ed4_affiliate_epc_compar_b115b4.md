@@ -8,20 +8,23 @@ sibling_basenames:
 - making_money_from_cr_f649af_affiliate_offer_sele_904ed4_cookie_duration_affi_6828a1
 - making_money_from_cr_f649af_affiliate_offer_sele_904ed4_merchant_checkout_tr_71ffde
 - making_money_from_cr_f649af_affiliate_offer_sele_904ed4_offer_intent_match_6047d8
-tags: &id001
+tags:
 - making-money-from-creating-websites-containing-aff
 - offer-selection
 - affiliate-epc-compar
-keywords: *id001
+keywords:
+- making-money-from-creating-websites-containing-aff
+- offer-selection
+- affiliate-epc-compar
 affiliate_category: making-money-from-creating-websites-containing-aff
 show_ads: true
 description: Earnings per click helps compare offers by likely revenue, but it needs testing against your own audience and page intent.
 hero_summary: Earnings per click helps compare offers by likely revenue, but it needs testing against your own audience and page intent.
 layout: default
-permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4-affiliate-epc-compar-b115b4/
+permalink: /untitled/affiliate-epc-compar/
 nav_short_title: Affiliate Epc Compar
-title: Affiliate Epc Compar
-title_full: Affiliate Epc Compar | Offer Selection
+title: Using EPC wisely
+title_full: Using EPC wisely | Offer Selection
 display_title_short: Affiliate Epc Compar
 display_title: Affiliate Epc Compar
 heading_title: Using EPC wisely
@@ -192,55 +195,59 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-book_search_hint: affiliate marketing, performance marketing
-parent_title: Offer Selection | Making Money From Creating Websites Containing Affiliate Links
-parent_permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4/
+date: '2026-05-20 22:00:38'
+parent_title: Choosing Affiliate Offers | Affiliate Website Revenue
+parent_permalink: /untitled/offer-selection/
 parent_nav_short_title: Offer Selection
 ancestor_links:
-- &id002
-  basename: making_money_from_cr_f649af
+- basename: making_money_from_cr_f649af
   title: Affiliate Website Revenue
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af/
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
   short_title: Affiliate Website Revenue
-- &id003
-  basename: making_money_from_cr_f649af_affiliate_offer_sele_904ed4
+- basename: making_money_from_cr_f649af_affiliate_offer_sele_904ed4
   title: Offer Selection | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4/
+  permalink: /untitled/offer-selection/
   short_title: Offer Selection
 breadcrumb_links:
-- *id002
-- *id003
+- basename: making_money_from_cr_f649af
+  title: Affiliate Website Revenue
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
+  short_title: Affiliate Website Revenue
+- basename: making_money_from_cr_f649af_affiliate_offer_sele_904ed4
+  title: Offer Selection | Making Money From Creating Websites Containing Affiliate Links
+  permalink: /untitled/offer-selection/
+  short_title: Offer Selection
 sibling_links:
 - basename: making_money_from_cr_f649af_affiliate_offer_sele_904ed4_approval_rate_revers_4d062a
   title: Approvals | Offer Selection
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4-approval-rate-revers-4d062a/
+  permalink: /untitled/approvals/
   short_title: Approvals
 - basename: making_money_from_cr_f649af_affiliate_offer_sele_904ed4_merchant_checkout_tr_71ffde
   title: Checkout trust | Offer Selection
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4-merchant-checkout-tr-71ffde/
+  permalink: /untitled/checkout-trust/
   short_title: Checkout trust
 - basename: making_money_from_cr_f649af_affiliate_offer_sele_904ed4_cookie_duration_affi_6828a1
   title: Cookie windows | Offer Selection
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4-cookie-duration-affi-6828a1/
+  permalink: /untitled/cookie-windows/
   short_title: Cookie windows
 - basename: making_money_from_cr_f649af_affiliate_offer_sele_904ed4_offer_intent_match_6047d8
-  title: Intent match | Offer Selection
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4-offer-intent-match-6047d8/
-  short_title: Intent match
+  title: Intent Matching | Offer Selection
+  permalink: /untitled/intent-matching/
+  short_title: Intent Matching
 up_link:
   basename: making_money_from_cr_f649af_affiliate_offer_sele_904ed4
   title: Offer Selection | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4/
+  permalink: /untitled/offer-selection/
   short_title: Offer Selection
 next_link:
   basename: making_money_from_cr_f649af_affiliate_offer_sele_904ed4_approval_rate_revers_4d062a
   title: Approvals | Offer Selection
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-offer-sele-904ed4-approval-rate-revers-4d062a/
+  permalink: /untitled/approvals/
   short_title: Approvals
-date: '2026-05-20 22:00:38 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-1-social.png
   preview_image: /assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-1.png
+image: /assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-1-social.png
 ---
 
 ## Introduction
@@ -248,7 +255,7 @@ header:
 Earnings per click, usually shortened to EPC, is one of the most useful metrics for comparing affiliate offers because it shifts attention away from headline commission percentages and towards likely revenue per visitor. A programme paying 3% can outperform one paying 15% if the lower-rate merchant converts better, approves more transactions, or sells higher-value products. EPC compresses several of those factors into one number, making it easier to shortlist offers quickly. Skimlinks Support <span class="citation-chip-wrap"><a class="citation-chip" href="https://partnerstack.com/glossary/earnings-per-click-epc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: partnerstack.com">[PartnerStack For affiliate websites]</a><span class="citation-popover" role="note"><span class="citation-popover-source">partnerstack.com</span><span class="citation-popover-snippet">PartnerStackEarnings Per Click (EPC) Definition &amp; MeaningEarnings per click (EPC) is a key performance indicator in affiliate marketing t...</span></span></span>, this matters because traffic is limited and page space is competitive. A comparison table, review page, or “best X for Y” article only has room for a handful of links. Choosing offers by EPC instead of commission rate alone often improves revenue per visitor and makes monetisation decisions more repeatable across large groups of pages.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-1-dark.svg" | relative_url }}" alt="Affiliate Epc Compar illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-1-light.svg" | relative_url }}" alt="Affiliate Epc Compar illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The important limitation is that EPC is an average, not a guarantee. Network-wide EPC figures can be distorted by coupon affiliates, cashback traffic, paid media, seasonal promotions, or large publishers with audiences very different from yours. EPC is best used as a filtering and testing signal rather than a final decision-maker.
 
 ## What EPC includes and hides
@@ -357,12 +364,12 @@ Seasonality causes similar distortions. EPC often rises sharply during:
 Testing offers during promotional spikes without normalising for seasonality can lead publishers to overvalue short-term winners.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-2-dark.svg" | relative_url }}" alt="Affiliate Epc Compar illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-2-light.svg" | relative_url }}" alt="Affiliate Epc Compar illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## EPC works best when paired with page intent
 
 The strongest use of EPC is not “pick the highest number”. It is “match the right EPC profile to the right page type”.
 
-Different [page types]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-buyer-intent-revenue-fe10e4-affiliate-page-types-956d68/' | relative_url }}) produce different visitor intent signals:
+Different [page types]({{ 'untitled/page-types/' | relative_url }}) produce different visitor intent signals:
 
 Page typeTypical intentUseful EPC interpretationProduct comparisonsHigh commercial intentStrong predictor of likely revenue“Best X for Y” pagesMid-to-high intentUseful if traffic closely matches merchant audienceTutorials and informational contentEarly-stage intentEPC averages often overstate likely earningsVoucher or deal pagesVery high intentEPC can become inflated compared with editorial traffic
 
@@ -376,7 +383,7 @@ For example:
 Using EPC properly therefore means interpreting it in context rather than treating it as a universal ranking score.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l7zCvuNo5T4" title="EPC in Affiliate Marketing Offers | Day Bros" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l7zCvuNo5T4" target="_blank" rel="noopener noreferrer">EPC in Affiliate Marketing Offers | Day Bros</a></p><p class="youtube-embed-meta">Channel: Optimize To Convert &middot; Views: 874 &middot; Uploaded: August 2020 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l7zCvuNo5T4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l7zCvuNo5T4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YjdQHuG_Fbs" title="What is EPC in Affiliate Marketing (Full Guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YjdQHuG_Fbs" target="_blank" rel="noopener noreferrer">What is EPC in Affiliate Marketing (Full Guide)</a></p><p class="youtube-embed-meta">Channel: David Mills &middot; Views: 636 &middot; Uploaded: February 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YjdQHuG_Fbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YjdQHuG_Fbs">Open on YouTube</a></p></div></div></div>
 
 ## How to test EPC on your own pages
 
@@ -386,7 +393,7 @@ Network averages are useful for narrowing options, but long-term optimisation sh
 
 A simple workflow is usually enough:
 
-1. Start with a shortlist of [merchants]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-multiple-merchant-li-625ce1/' | relative_url }}) that have:
+1. Start with a shortlist of [merchants]({{ 'untitled/merchants/' | relative_url }}) that have:
 competitive EPC,
 reasonable approval rates,
 suitable product fit,
@@ -396,7 +403,7 @@ and trustworthy landing pages.
 approved commissions,
 and revenue per visitor.
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-3-dark.svg" | relative_url }}" alt="Affiliate Epc Compar illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-3-light.svg" | relative_url }}" alt="Affiliate Epc Compar illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_affiliate_offer_sele_904ed4_affiliate_epc_compar_b115b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 4. Compare results over a meaningful sample size rather than reacting to a few conversions.
 
 This often reveals patterns hidden by network averages.
@@ -423,7 +430,7 @@ Useful implementation patterns include:
 This helps website operators identify repeatable monetisation patterns instead of treating every page as unique.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YjdQHuG_Fbs" title="What is EPC in Affiliate Marketing (Full Guide)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YjdQHuG_Fbs" target="_blank" rel="noopener noreferrer">What is EPC in Affiliate Marketing (Full Guide)</a></p><p class="youtube-embed-meta">Channel: David Mills &middot; Views: 635 &middot; Uploaded: February 2024 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YjdQHuG_Fbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YjdQHuG_Fbs">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d18R8hKyyfM" title="Maxweb Affiliate CPA Network - How Much Money Can You Earn From Affiliate Marketing?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d18R8hKyyfM" target="_blank" rel="noopener noreferrer">Maxweb Affiliate CPA Network - How Much Money Can You Earn From Affiliate Marketing?</a></p><p class="youtube-embed-meta">Channel: SF Digital Studios &middot; Views: 176 &middot; Uploaded: January 2024 &middot; Length: 3 minutes 41 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d18R8hKyyfM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d18R8hKyyfM">Open on YouTube</a></p></div></div></div>
 
 ## EPC is more useful as a ranking signal than a promise
 
@@ -541,15 +548,14 @@ Used properly, EPC helps affiliate publishers compare offers more fairly because
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/039c77f0cf6595c692e8.jpg' | relative_url }}" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcG_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Direct pick &middot; High appeal</p>
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
         </h4>
         <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-        <p class="fr-book-desc">Directly covers affiliate marketing fundamentals, traffic generation, monetisation, niches, and building affiliate websites.</p>
+        <p class="fr-book-desc">Directly covers affiliate websites, traffic, niches, monetisation, commissions, and practical setup for affiliate content businesses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -559,17 +565,16 @@ Used properly, EPC helps affiliate publishers compare offers more fairly because
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/e4acbeb4395006515fc0.jpg' | relative_url }}" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Nothing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hf9bzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for From Nothing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Nothing">From Nothing</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Ian Pribyl</p>
         
-        <p class="fr-book-desc">Useful for understanding conversion funnels, offer structure, landing pages, and monetising traffic from affiliate sites.</p>
+        <p class="fr-book-desc">Covers affiliate marketing, blogging, online business models, and website monetisation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -577,17 +582,16 @@ Used properly, EPC helps affiliate publishers compare offers more fairly because
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traffic Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/aad589469e9a3c293c37.jpg' | relative_url }}" alt="Cover for Traffic Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1-Page Marketing Plan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVOJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1-Page Marketing Plan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traffic Secrets">Traffic Secrets</a>
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Allan Dib</p>
         
-        <p class="fr-book-desc">Highly relevant for affiliate websites because traffic acquisition is central to monetisation.</p>
+        <p class="fr-book-desc">Helps affiliate-site owners structure acquisition, conversion, and customer journeys.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -595,156 +599,8 @@ Used properly, EPC helps affiliate publishers compare offers more fairly because
     </article>
     </div>
     <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing%2C+Performance+Marketing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Browse more on Amazon
-      </a>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=affiliate+marketing+poster+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">affiliate marketing poster guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=blogging+entrepreneur+mug+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">blogging entrepreneur mug guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=digital+marketing+wall+art+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">digital marketing wall art guide</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/b61377085cf161584ef2.jpg' | relative_url }}" alt="Listing image for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor"><img src="{{ '/assets/images/marketplace-covers/1599f6e6909fda64c35b.jpg' | relative_url }}" alt="Listing image for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor</a>
-        </h4>
-        <p class="fr-book-author">New | blumics (97.1% positive)</p>
-        <p class="fr-book-popularity">USD 10.00 | Free shipping | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/cc4538a680050cd19985.jpg' | relative_url }}" alt="Listing image for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 300.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/e02f5a0779888f794fe4.jpg' | relative_url }}" alt="Listing image for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-affiliate-offer-s-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function inferMarket(available) {
-    try {
-      var saved = window.localStorage && localStorage.getItem('phoenix-ebay-market');
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var language = normalize((navigator.languages && navigator.languages[0]) || navigator.language || '');
-    if ((language === 'en-gb' || language.endsWith('-gb') || language === 'en-ie') && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-    if ((language === 'en-us' || language.endsWith('-us')) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    try {
-      var tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
-      if (/Europe\/(London|Belfast)/.test(tz) && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-      if (/^America\//.test(tz) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    } catch (err) {}
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var buttons = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'));
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (buttons.length < 2 || panels.length < 2) return;
-    var available = buttons.map(function (button) { return button.getAttribute('data-ebay-market-button'); }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      buttons.forEach(function (button) {
-        var active = button.getAttribute('data-ebay-market-button') === marketId;
-        button.setAttribute('aria-pressed', active ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-    }
-    buttons.forEach(function (button) {
-      button.addEventListener('click', function () {
-        selectMarket(button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>

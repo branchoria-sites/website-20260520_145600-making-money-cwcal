@@ -8,20 +8,23 @@ sibling_basenames:
 - making_money_from_cr_f649af_problem_solving_guid_35269d_damp_room_product_ro_70be4b
 - making_money_from_cr_f649af_problem_solving_guid_35269d_diagnosis_before_pro_bd9b27
 - making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_link_t_d9867d
-tags: &id001
+tags:
 - making-money-from-creating-websites-containing-aff
 - problem-guides
 - next-clicks
-keywords: *id001
+keywords:
+- making-money-from-creating-websites-containing-aff
+- problem-guides
+- next-clicks
 affiliate_category: making-money-from-creating-websites-containing-aff
 show_ads: true
 description: The next click should match the reader’s readiness, from category explainers to buying guides, comparisons, reviews, or merchant pages.
 hero_summary: The next click should match the reader’s readiness, from category explainers to buying guides, comparisons, reviews, or merchant pages.
 layout: default
-permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d-problem-guide-intern-625c42/
+permalink: /untitled/next-clicks/
 nav_short_title: Next Clicks
-title: Next Clicks
-title_full: Next Clicks | Problem Guides
+title: Problem Guide Paths
+title_full: Problem Guide Paths | Problem Guides
 display_title_short: Next Clicks
 display_title: Next Clicks
 heading_title: Problem Guide Paths
@@ -192,60 +195,64 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-book_search_hint: affiliate marketing, website monetisation
-parent_title: Problem Guides | Making Money From Creating Websites Containing Affiliate Links
-parent_permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d/
+date: '2026-05-20 22:03:02'
+parent_title: Problem Solving Affiliate Guides | Affiliate Website Revenue
+parent_permalink: /untitled/problem-guides/
 parent_nav_short_title: Problem Guides
 ancestor_links:
-- &id002
-  basename: making_money_from_cr_f649af
+- basename: making_money_from_cr_f649af
   title: Affiliate Website Revenue
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af/
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
   short_title: Affiliate Website Revenue
-- &id003
-  basename: making_money_from_cr_f649af_problem_solving_guid_35269d
+- basename: making_money_from_cr_f649af_problem_solving_guid_35269d
   title: Problem Guides | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d/
+  permalink: /untitled/problem-guides/
   short_title: Problem Guides
 breadcrumb_links:
-- *id002
-- *id003
+- basename: making_money_from_cr_f649af
+  title: Affiliate Website Revenue
+  permalink: /affiliate-website-revenue/making-money-from-creating-websites-containing-aff/
+  short_title: Affiliate Website Revenue
+- basename: making_money_from_cr_f649af_problem_solving_guid_35269d
+  title: Problem Guides | Making Money From Creating Websites Containing Affiliate Links
+  permalink: /untitled/problem-guides/
+  short_title: Problem Guides
 sibling_links:
 - basename: making_money_from_cr_f649af_problem_solving_guid_35269d_damp_room_product_ro_70be4b
   title: Damp Rooms | Problem Guides
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d-damp-room-product-ro-70be4b/
+  permalink: /untitled/damp-rooms/
   short_title: Damp Rooms
 - basename: making_money_from_cr_f649af_problem_solving_guid_35269d_diagnosis_before_pro_bd9b27
   title: Diagnosis First | Problem Guides
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d-diagnosis-before-pro-bd9b27/
+  permalink: /untitled/diagnosis-first/
   short_title: Diagnosis First
 - basename: making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_link_t_d9867d
   title: Link Timing | Problem Guides
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d-problem-guide-link-t-d9867d/
+  permalink: /untitled/link-timing-fd1d6a/
   short_title: Link Timing
 - basename: making_money_from_cr_f649af_problem_solving_guid_35269d_avoid_thin_problem_g_192b8e
   title: Thin Advice | Problem Guides
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d-avoid-thin-problem-g-192b8e/
+  permalink: /untitled/thin-advice/
   short_title: Thin Advice
 up_link:
   basename: making_money_from_cr_f649af_problem_solving_guid_35269d
   title: Problem Guides | Making Money From Creating Websites Containing Affiliate Links
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d/
+  permalink: /untitled/problem-guides/
   short_title: Problem Guides
 prev_link:
   basename: making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_link_t_d9867d
   title: Link Timing | Problem Guides
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d-problem-guide-link-t-d9867d/
+  permalink: /untitled/link-timing-fd1d6a/
   short_title: Link Timing
 next_link:
   basename: making_money_from_cr_f649af_problem_solving_guid_35269d_avoid_thin_problem_g_192b8e
   title: Thin Advice | Problem Guides
-  permalink: /making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d-avoid-thin-problem-g-192b8e/
+  permalink: /untitled/thin-advice/
   short_title: Thin Advice
-date: '2026-05-20 22:03:02 '
 header:
   og_image: /assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-1-social.png
   preview_image: /assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-1.png
+image: /assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-1-social.png
 ---
 
 ## Introduction
@@ -253,8 +260,8 @@ header:
 A problem-solving page rarely makes the most money on the first click. Its real value is moving readers towards the next page that matches their buying readiness. Someone searching “why is my bedroom always damp?” is usually not ready for a direct merchant link. They may still be diagnosing the cause, comparing solution types, or deciding whether they need a product at all. The internal path matters because the wrong next step reduces both trust and conversion rate.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-1-dark.svg" | relative_url }}" alt="Next Clicks illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-High-performing affiliate sites therefore treat [problem guides]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d/' | relative_url }}) as routing pages, not isolated articles. The guide qualifies the visitor, narrows the likely solution category, and then sends different readers to different commercial destinations: category explainers, buying guides, [comparison pages]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-comparison-5755f1/' | relative_url }}), reviews, or merchants. Research into ecommerce intent classification repeatedly shows that users express intent through symptoms, constraints, and use cases rather than exact product names. Systems that correctly map those queries to suitable product categories improve relevance and downstream conversion behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.algolia.com/blog/ecommerce/how-ecommerce-search-engines-handle-different-types-of-queries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: algolia.com">[algolia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">algolia.com</span><span class="citation-popover-title">how ecommerce search engines handle different types of queries</span><span class="citation-popover-snippet">How ecommerce search engines handle different types of...1 Mar 2023 — What happens to a user search query when it&#x27;s processed by a retai...</span></span></span>
+<img src="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-1-light.svg" | relative_url }}" alt="Next Clicks illustration 1" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+High-performing affiliate sites therefore treat [problem guides]({{ 'untitled/problem-guides/' | relative_url }}) as routing pages, not isolated articles. The guide qualifies the visitor, narrows the likely solution category, and then sends different readers to different commercial destinations: category explainers, buying guides, [comparison pages]({{ 'untitled/comparison-pages/' | relative_url }}), reviews, or merchants. Research into ecommerce intent classification repeatedly shows that users express intent through symptoms, constraints, and use cases rather than exact product names. Systems that correctly map those queries to suitable product categories improve relevance and downstream conversion behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.algolia.com/blog/ecommerce/how-ecommerce-search-engines-handle-different-types-of-queries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: algolia.com">[algolia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">algolia.com</span><span class="citation-popover-title">how ecommerce search engines handle different types of queries</span><span class="citation-popover-snippet">How ecommerce search engines handle different types of...1 Mar 2023 — What happens to a user search query when it&#x27;s processed by a retai...</span></span></span>
 
 For affiliate websites, this means the internal link structure is part of the monetisation system itself. The goal is not simply “more clicks”. The goal is sending the right visitor to the highest-converting next page for their current level of certainty.
 
@@ -281,7 +288,7 @@ This creates a practical routing principle for affiliate websites:
 
 * uncertainty should route to clarification
 * category certainty should route to comparison
-* product certainty should route to reviews or [merchants]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-best-of-affiliate-pa-55feea-multiple-merchant-li-625ce1/' | relative_url }})
+* product certainty should route to reviews or [merchants]({{ 'untitled/merchants/' | relative_url }})
 
 The internal link is therefore a qualification mechanism, not just a navigation element.
 
@@ -379,7 +386,7 @@ For scalable affiliate systems, category explainers also create reusable routing
 That scalability matters more than maximising monetisation on a single article.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/26OlO7qEg7o" title="Guide to Internal Linking for SEO, Importance of Internal Linking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=26OlO7qEg7o" target="_blank" rel="noopener noreferrer">Guide to Internal Linking for SEO, Importance of Internal Linking</a></p><p class="youtube-embed-meta">Channel: Craig Campbell SEO &middot; Views: 2.4K &middot; Uploaded: November 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=26OlO7qEg7o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=26OlO7qEg7o">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZkCuOP6-iJQ" title="Planning your Affiliate Site’s Homepage and Navigation [3.4]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZkCuOP6-iJQ" target="_blank" rel="noopener noreferrer">Planning your Affiliate Site’s Homepage and Navigation [3.4]</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 18.1K &middot; Uploaded: March 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZkCuOP6-iJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZkCuOP6-iJQ">Open on YouTube</a></p></div></div></div>
 
 ## When buying guides become the right destination
 
@@ -449,7 +456,7 @@ Instead they ask:
 That distinction changes both the internal path and the commercial intent level.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-2-dark.svg" | relative_url }}" alt="Next Clicks illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-2-light.svg" | relative_url }}" alt="Next Clicks illustration 2" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Indicators that readers are comparison-ready
 
 Problem guides should route readers into comparisons when:
@@ -471,11 +478,11 @@ At this point, the comparison page becomes a conversion accelerator rather than 
 Research into ecommerce intent modelling shows that browse behaviour and focused evaluation behaviour differ substantially in conversion outcomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sigir-ecom.github.io/eCom23Papers/paper_21.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sigir-ecom.github.io">[sigir-ecom.github.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sigir-ecom.github.io</span><span class="citation-popover-title">paper 21</span><span class="citation-popover-snippet">Aligning Ranking Objectives with E-commerce Search Intentby D Seyler · 2023 · Cited by 3 — Specifically, we identify the browse intent ba...</span></span></span> Comparison pages target the focused evaluation stage.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZkCuOP6-iJQ" title="Planning your Affiliate Site’s Homepage and Navigation [3.4]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZkCuOP6-iJQ" target="_blank" rel="noopener noreferrer">Planning your Affiliate Site’s Homepage and Navigation [3.4]</a></p><p class="youtube-embed-meta">Channel: Ahrefs &middot; Views: 18.1K &middot; Uploaded: March 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZkCuOP6-iJQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZkCuOP6-iJQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/26OlO7qEg7o" title="Guide to Internal Linking for SEO, Importance of Internal Linking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=26OlO7qEg7o" target="_blank" rel="noopener noreferrer">Guide to Internal Linking for SEO, Importance of Internal Linking</a></p><p class="youtube-embed-meta">Channel: Craig Campbell SEO &middot; Views: 2.4K &middot; Uploaded: November 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=26OlO7qEg7o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=26OlO7qEg7o">Open on YouTube</a></p></div></div></div>
 
 ### Comparison pages as monetisation concentrators
 
-Comparison pages often earn disproportionately high [affiliate revenue]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-conversion-fac650-affiliate-revenue-le-8c2b2f/' | relative_url }}) because they attract visitors near purchase readiness.
+Comparison pages often earn disproportionately high [affiliate revenue]({{ 'untitled/revenue-leaks/' | relative_url }}) because they attract visitors near purchase readiness.
 
 This makes them valuable internal-link targets from upstream guides.
 
@@ -522,7 +529,7 @@ In these situations, excessive internal routing may reduce conversion efficiency
 The visitor may already know the category and simply need reassurance or a recommendation.
 
 
-<img src="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-3-dark.svg" | relative_url }}" alt="Next Clicks illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-3-light.svg" | relative_url }}" alt="Next Clicks illustration 3" data-theme-src-dark="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/making_money_from_cr_f649af_problem_solving_guid_35269d_problem_guide_intern_625c42-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why early merchant links often underperform
 
 Many affiliate sites leak revenue by placing merchant links too early in problem-solving content.
@@ -536,7 +543,7 @@ This creates several issues:
 
 The result is often low-quality outbound clicks with poor conversion rates.
 
-[Internal linking]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-affiliate-internal-l-d8b176/' | relative_url }}) research for affiliate sites increasingly emphasises conversion-oriented linking rather than purely SEO-oriented linking. High-performing sites deliberately connect informational pages to monetised hubs that appear frequently in successful conversion paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://geniuslink.com/blog/internal-linking-for-affiliate-websites-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geniuslink.com">[Geniuslink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geniuslink.com</span><span class="citation-popover-title">The Ultimate Guide: Internal Linking for Affiliate Websites</span><span class="citation-popover-snippet">GeniuslinkThe Ultimate Guide: Internal Linking for Affiliate WebsitesMay 1, 2026 — 7 days ago — If you&#x27;re struggling with Internal linkin...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
+[Internal linking]({{ 'untitled/internal-linking/' | relative_url }}) research for affiliate sites increasingly emphasises conversion-oriented linking rather than purely SEO-oriented linking. High-performing sites deliberately connect informational pages to monetised hubs that appear frequently in successful conversion paths. <span class="citation-chip-wrap"><a class="citation-chip" href="https://geniuslink.com/blog/internal-linking-for-affiliate-websites-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: geniuslink.com">[Geniuslink]</a><span class="citation-popover" role="note"><span class="citation-popover-source">geniuslink.com</span><span class="citation-popover-title">The Ultimate Guide: Internal Linking for Affiliate Websites</span><span class="citation-popover-snippet">GeniuslinkThe Ultimate Guide: Internal Linking for Affiliate WebsitesMay 1, 2026 — 7 days ago — If you&#x27;re struggling with Internal linkin...</span><span class="citation-popover-meta">Published: May 1, 2026</span></span></span>
 
 The implication is practical: a visitor who first clicks into a useful comparison page may ultimately generate more revenue than one sent immediately to Amazon.
 
@@ -552,7 +559,7 @@ A useful simplified framework is:
 
 Reader stateRecommended next pageconfused about causediagnostic explaineruncertain about categorycategory explaineraccepts category but needs help choosingbuying guidecomparing shortlisted optionscomparison pageready to purchasemerchant or retailer
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reflectdigital.co.uk/blog/guide-to-internal-linking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reflectdigital.co.uk">[This structure reduces inconsistent internal linking.]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reflectdigital.co.uk</span><span class="citation-popover-snippet">Guide to Internal LinkingThis SEO internal linking guide will cover all aspects of internal linking, whether you are at SEO beginner, int...</span></span></span>
+This structure reduces inconsistent internal linking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reflectdigital.co.uk/blog/guide-to-internal-linking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reflectdigital.co.uk">[reflectdigital.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reflectdigital.co.uk</span><span class="citation-popover-snippet">Guide to Internal LinkingThis SEO internal linking guide will cover all aspects of internal linking, whether you are at SEO beginner, int...</span></span></span>
 
 It also improves monetisation forecasting because each page type has a clearer commercial role.
 
@@ -591,7 +598,7 @@ This is one of the most common affiliate mistakes.
 
 A generic “best products” page may be too broad for readers arriving from specific problems.
 
-Someone searching “best heater for damp room” often needs [diagnosis before]({{ 'making-money-from-creating-websites-containing-aff/making-money-from-cr-f649af-problem-solving-guid-35269d-diagnosis-before-pro-bd9b27/' | relative_url }}) product comparison. Routing them directly into heaters may produce poor conversions because the actual solution may be ventilation or moisture control.
+Someone searching “best heater for damp room” often needs [diagnosis before]({{ 'untitled/diagnosis-first/' | relative_url }}) product comparison. Routing them directly into heaters may produce poor conversions because the actual solution may be ventilation or moisture control.
 
 ### Over-educating high-intent readers
 
@@ -768,15 +775,14 @@ Affiliate sites that do this well behave more like guided shopping systems than 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/039c77f0cf6595c692e8.jpg' | relative_url }}" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Affiliate Marketing For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcG_DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Affiliate Marketing For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Direct pick &middot; High appeal</p>
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Affiliate Marketing For Dummies">Affiliate Marketing For Dummies</a>
         </h4>
         <p class="fr-book-author">By Ted Sudol, Paul Mladjenovic</p>
         
-        <p class="fr-book-desc">Directly covers affiliate marketing fundamentals, traffic generation, monetisation, niches, and building affiliate websites.</p>
+        <p class="fr-book-desc">Directly covers affiliate websites, traffic, niches, monetisation, commissions, and practical setup for affiliate content businesses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Affiliate+Marketing+For+Dummies+by+Ted+Sudol&amp;i=stripbooks&amp;tag=searcht-20&amp;tag=searcht-20&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -786,17 +792,16 @@ Affiliate sites that do this well behave more like guided shopping systems than 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dotcom Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/e4acbeb4395006515fc0.jpg' | relative_url }}" alt="Cover for Dotcom Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Nothing on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Hf9bzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for From Nothing" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dotcom Secrets">Dotcom Secrets</a>
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Nothing">From Nothing</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Ian Pribyl</p>
         
-        <p class="fr-book-desc">Useful for understanding conversion funnels, offer structure, landing pages, and monetising traffic from affiliate sites.</p>
+        <p class="fr-book-desc">Covers affiliate marketing, blogging, online business models, and website monetisation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dotcom+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=From+Nothing+by+Ian+Pribyl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -804,17 +809,16 @@ Affiliate sites that do this well behave more like guided shopping systems than 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Traffic Secrets on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="{{ '/assets/images/book-covers/aad589469e9a3c293c37.jpg' | relative_url }}" alt="Cover for Traffic Secrets" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The 1-Page Marketing Plan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LVOJEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The 1-Page Marketing Plan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
-        <p class="fr-book-fit">Method context &middot; High appeal</p>
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Traffic Secrets">Traffic Secrets</a>
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The 1-Page Marketing Plan">The 1-Page Marketing Plan</a>
         </h4>
-        <p class="fr-book-author">By Russell Brunson</p>
+        <p class="fr-book-author">By Allan Dib</p>
         
-        <p class="fr-book-desc">Highly relevant for affiliate websites because traffic acquisition is central to monetisation.</p>
+        <p class="fr-book-desc">Helps affiliate-site owners structure acquisition, conversion, and customer journeys.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Traffic+Secrets+by+Russell+Brunson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+1-Page+Marketing+Plan+by+Allan+Dib&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -822,156 +826,8 @@ Affiliate sites that do this well behave more like guided shopping systems than 
     </article>
     </div>
     <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Affiliate+Marketing%2C+Website+Monetisation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Browse more on Amazon
-      </a>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=affiliate+marketing+poster+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">affiliate marketing poster guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=blogging+entrepreneur+mug+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">blogging entrepreneur mug guide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=digital+marketing+wall+art+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">digital marketing wall art guide</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude data-ebay-market-switch aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
-
-    </div>
-
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US">
-      <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/b61377085cf161584ef2.jpg' | relative_url }}" alt="Listing image for Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor"><img src="{{ '/assets/images/marketplace-covers/1599f6e6909fda64c35b.jpg' | relative_url }}" alt="Listing image for Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Personalized Neon Art | Minimalist LED Name Sign | Custom Aesthetic Room Decor</a>
-        </h4>
-        <p class="fr-book-author">New | blumics (97.1% positive)</p>
-        <p class="fr-book-popularity">USD 10.00 | Free shipping | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/cc4538a680050cd19985.jpg' | relative_url }}" alt="Listing image for Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Digital Printing Sign for Business Displays | LED Flex Neon | 13&quot;W x 32&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 300.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D"><img src="{{ '/assets/images/marketplace-covers/e02f5a0779888f794fe4.jpg' | relative_url }}" alt="Listing image for Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">Free Neon Sign for Retail Displays | LED Flex Neon | 24&quot;W x 10&quot;H x 1&quot;D</a>
-        </h4>
-        <p class="fr-book-author">New | accent_signs (99.4% positive)</p>
-        <p class="fr-book-popularity">USD 169.00 | Shipping USD 25.00 | US</p>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on eBay
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+marketing+neon+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=making-money-from-creating-websites-containing-aff-making-money-from-cr-f649af-problem-solving-g-digital-marketing-neon&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Some outbound eBay links may be affiliate links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
-(function () {
-  var sections = document.querySelectorAll('[data-ebay-market-switch]');
-  if (!sections.length) return;
-  function normalize(value) {
-    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
-  }
-  function inferMarket(available) {
-    try {
-      var saved = window.localStorage && localStorage.getItem('phoenix-ebay-market');
-      if (saved && available.indexOf(saved) >= 0) return saved;
-    } catch (err) {}
-    var language = normalize((navigator.languages && navigator.languages[0]) || navigator.language || '');
-    if ((language === 'en-gb' || language.endsWith('-gb') || language === 'en-ie') && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-    if ((language === 'en-us' || language.endsWith('-us')) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    try {
-      var tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || '');
-      if (/Europe\/(London|Belfast)/.test(tz) && available.indexOf('EBAY_GB') >= 0) return 'EBAY_GB';
-      if (/^America\//.test(tz) && available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    } catch (err) {}
-    if (available.indexOf('EBAY_US') >= 0) return 'EBAY_US';
-    return available[0];
-  }
-  sections.forEach(function (section) {
-    if (section.getAttribute('data-ebay-market-init') === '1') return;
-    section.setAttribute('data-ebay-market-init', '1');
-    var buttons = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'));
-    var panels = Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-panel]'));
-    if (buttons.length < 2 || panels.length < 2) return;
-    var available = buttons.map(function (button) { return button.getAttribute('data-ebay-market-button'); }).filter(Boolean);
-    function selectMarket(marketId, persist) {
-      panels.forEach(function (panel) {
-        var active = panel.getAttribute('data-ebay-market-panel') === marketId;
-        panel.hidden = !active;
-      });
-      buttons.forEach(function (button) {
-        var active = button.getAttribute('data-ebay-market-button') === marketId;
-        button.setAttribute('aria-pressed', active ? 'true' : 'false');
-      });
-      if (persist) {
-        try {
-          if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId);
-        } catch (err) {}
-      }
-    }
-    buttons.forEach(function (button) {
-      button.addEventListener('click', function () {
-        selectMarket(button.getAttribute('data-ebay-market-button'), true);
-      });
-    });
-    selectMarket(inferMarket(available), false);
-  });
-})();
-</script>
 </section>
