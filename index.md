@@ -171,6 +171,9 @@ site_image_description: A website publisher reviews affiliate comparison pages, 
 ---
 
 <section class="home-adaptive-home home-adaptive-home--branch-index" data-home-archetype="branch-index" data-home-level-1-count="1" data-home-level-1-tier="solo" data-home-top-child-tier="many" data-home-max-breadth="45" data-home-max-depth="2">
+
+<h1 class="home-structure-intro-title">Affiliate Website Revenue</h1>
+
   <section id="home-full-index" class="home-mode-panel is-active home-adaptive-secondary" data-home-mode-panel="vertical" data-home-mode-label="Topic view">
     <section id="home-vertical-view" class="home-hierarchy-band home-vertical-shell" data-home-vertical-map data-home-vertical-l1-count="9" data-home-vertical-top-count="1">
       <div class="home-vertical-actions" role="group" aria-label="Topic view controls">
