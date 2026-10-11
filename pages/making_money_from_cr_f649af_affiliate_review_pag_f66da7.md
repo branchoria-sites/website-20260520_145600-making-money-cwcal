@@ -571,7 +571,6 @@ The commercial point is straightforward: trustworthy review pages do not weaken 
 
 3. <a id="endnote-3"></a>
    Source: consumer.ftc.gov  
-   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  

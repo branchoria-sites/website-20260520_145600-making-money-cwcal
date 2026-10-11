@@ -692,7 +692,6 @@ The most useful affiliate CRO work therefore happens at the junction of content 
 
 31. <a id="endnote-31"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 32. <a id="endnote-32"></a>
    Source: cxl.com  

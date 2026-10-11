@@ -632,7 +632,6 @@ Without evidence blocks, “best” pages easily become thin affiliation at scal
 13. <a id="endnote-13"></a>
    Source: seozoom.com  
    Title: google reviews system the algorithm on product reviews  
-   Link: https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Reviews System: the algorithm on product reviews17 Apr 2023 — Guide to Reviews system, the Google algorithm evaluating reviews, an...</p></details>
 
 14. <a id="endnote-14"></a>

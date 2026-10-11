@@ -547,7 +547,6 @@ Affiliate websites can still be a practical monetisation model, but only when th
 
 6. <a id="endnote-6"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
@@ -683,7 +682,6 @@ Affiliate websites can still be a practical monetisation model, but only when th
 34. <a id="endnote-34"></a>
    Source: ftc.gov  
    Title: FT C's Endorsement Guides: What People Are Asking | Federal Trade Commission  
-   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 35. <a id="endnote-35"></a>
    Source: asa.org.uk  
@@ -781,42 +779,33 @@ Affiliate websites can still be a practical monetisation model, but only when th
 
 54. <a id="endnote-54"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 55. <a id="endnote-55"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/influencers  
 
 56. <a id="endnote-56"></a>
    Source: consumer.ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 57. <a id="endnote-57"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/news-events/news/press-releases/2017/04/ftc-staff-reminds-influencers-brands-clearly-disclose-relationship  
 
 58. <a id="endnote-58"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/news-events/news/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers  
 
 59. <a id="endnote-59"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/news-events/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers  
 
 60. <a id="endnote-60"></a>
    Source: bulkorder.ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link: https://www.bulkorder.ftc.gov/publications/disclosures-101-social-media-influencers  
 
 61. <a id="endnote-61"></a>
    Source: consumer.ftc.gov  
    Title: new brochure social media influencers  
-   Link: https://consumer.ftc.gov/new-brochure-social-media-influencers  
 
 62. <a id="endnote-62"></a>
    Source: consumer.ftc.gov  
-   Link: https://consumer.ftc.gov/node/298316  
 
 63. <a id="endnote-63"></a>
    Source: affiliate-program.amazon.com  
@@ -947,7 +936,6 @@ Affiliate websites can still be a practical monetisation model, but only when th
 
 92. <a id="endnote-92"></a>
    Source: lillianpurge.co.uk  
-   Link: https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo  
 
 93. <a id="endnote-93"></a>
    Source: studyres.com  

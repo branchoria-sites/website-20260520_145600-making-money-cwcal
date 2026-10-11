@@ -627,7 +627,6 @@ For high-volume affiliate website production, the lesson is clear. Do not treat 
 
 5. <a id="endnote-5"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 6. <a id="endnote-6"></a>
    Source: baymard.com  
@@ -700,7 +699,6 @@ For high-volume affiliate website production, the lesson is clear. Do not treat 
 20. <a id="endnote-20"></a>
    Source: ftc.gov  
    Title: FT C's Endorsement Guides: What People Are Asking | Federal Trade Commission  
-   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 21. <a id="endnote-21"></a>
    Source: developers.google.com  
@@ -789,12 +787,10 @@ For high-volume affiliate website production, the lesson is clear. Do not treat 
 
 40. <a id="endnote-40"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/influencers  
 
 41. <a id="endnote-41"></a>
    Source: consumer.ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 42. <a id="endnote-42"></a>
    Source: ftc.gov  
@@ -806,11 +802,9 @@ For high-volume affiliate website production, the lesson is clear. Do not treat 
 
 44. <a id="endnote-44"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 45. <a id="endnote-45"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/business-guidance/advertising-marketing/online-advertising-marketing  
 
 46. <a id="endnote-46"></a>
    Source: ftc.gov  
