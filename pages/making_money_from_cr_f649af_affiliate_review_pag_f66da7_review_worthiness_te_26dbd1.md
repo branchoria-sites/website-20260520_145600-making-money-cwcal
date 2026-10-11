@@ -567,12 +567,10 @@ For scalable affiliate publishing, the practical implication is straightforward:
 3. <a id="endnote-3"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — An endorsement must reflect the honest opinion of t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 5. <a id="endnote-5"></a>
    Source: ftc.gov  
@@ -581,7 +579,6 @@ For scalable affiliate publishing, the practical implication is straightforward:
 
 6. <a id="endnote-6"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fair Credit Reporting Act: Affiliate MarketingFind legal resources and guidance to understand your business responsibilities and comp...</p></details>
 
 7. <a id="endnote-7"></a>

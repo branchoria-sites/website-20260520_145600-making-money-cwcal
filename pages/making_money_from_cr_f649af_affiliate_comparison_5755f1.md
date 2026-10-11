@@ -574,7 +574,6 @@ For affiliate monetisation, the most valuable comparison pages are not the ones 
 
 7. <a id="endnote-7"></a>
    Source: consumer.ftc.gov  
-   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 8. <a id="endnote-8"></a>
    Source: baymard.com  
@@ -594,7 +593,6 @@ For affiliate monetisation, the most valuable comparison pages are not the ones 
 11. <a id="endnote-11"></a>
    Source: ftc.gov  
    Title: FT C's Endorsement Guides: What People Are Asking | Federal Trade Commission  
-   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 12. <a id="endnote-12"></a>
    Source: developers.google.com  
@@ -632,7 +630,6 @@ For affiliate monetisation, the most valuable comparison pages are not the ones 
 
 20. <a id="endnote-20"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/reviews  
 
 21. <a id="endnote-21"></a>
    Source: everything.explained.today  

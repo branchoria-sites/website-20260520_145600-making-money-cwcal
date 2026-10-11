@@ -593,7 +593,6 @@ For affiliate websites built at scale, this is the central rule: build around de
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
@@ -819,15 +818,12 @@ For affiliate websites built at scale, this is the central rule: build around de
 56. <a id="endnote-56"></a>
    Source: consumer.ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 57. <a id="endnote-57"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/news-events/news/press-releases/2017/04/ftc-staff-reminds-influencers-brands-clearly-disclose-relationship  
 
 58. <a id="endnote-58"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/influencers  
 
 59. <a id="endnote-59"></a>
    Source: affiliate-program.amazon.in  

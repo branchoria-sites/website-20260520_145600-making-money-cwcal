@@ -598,7 +598,6 @@ That rule protects both sides of the model. It reduces the risk of regulatory co
 
 24. <a id="endnote-24"></a>
    Source: lillianpurge.co.uk  
-   Link: https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo  
 
 25. <a id="endnote-25"></a>
    Source: legallens.co.uk  

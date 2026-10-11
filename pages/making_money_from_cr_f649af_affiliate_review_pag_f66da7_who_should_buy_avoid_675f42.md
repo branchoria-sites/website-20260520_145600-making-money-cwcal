@@ -514,7 +514,6 @@ In practice, “who should buy and who should avoid it” is not just a review s
 
 3. <a id="endnote-3"></a>
    Source: ftc.gov  
-   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAdvertisers shouldn&#x27;t encourage endorsements using features that...</p></details>
 
 4. <a id="endnote-4"></a>
