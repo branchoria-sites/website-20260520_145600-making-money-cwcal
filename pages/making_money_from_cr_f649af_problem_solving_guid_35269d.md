@@ -352,7 +352,7 @@ A useful rule is to link at category-confirmation moments. These are points wher
 
 This approach also aligns with [disclosure]({{ 'untitled/disclosure/' | relative_url }}) and trust requirements. In the UK, the Advertising Standards Authority says affiliate marketing must be obviously identifiable, and that affiliates are effectively acting as secondary advertisers when they earn in direct proportion to the interest they generate. The FTC similarly says affiliate relationships should be disclosed clearly and conspicuously, close enough to the recommendation that readers understand the connection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAOnline Affiliate Marketing</span><span class="citation-popover-snippet">ASA | CAPMarch 22, 2023...</span><span class="citation-popover-meta">Published: March 22, 2023</span></span></span>
 
-For problem guides, that means the disclosure should not be hidden below a long article or separated from the first commercial recommendation. A plain statement near the top and clear labelling around affiliate sections is usually more reader-friendly than vague wording such as “affiliate link” alone, which the FTC says consumers may not fully understand. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For problem guides, that means the disclosure should not be hidden below a long article or separated from the first commercial recommendation. A plain statement near the top and clear labelling around affiliate sections is usually more reader-friendly than vague wording such as “affiliate link” alone, which the FTC says consumers may not fully understand. <span class="citation-chip-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The link itself should also match the reader’s stage. A reader who has just learned that there are three possible solution categories may need a comparison of categories, not an immediate merchant link. A reader who has already reached a clear category choice may be ready for “best dehumidifiers for small flats” or a product comparison. The more uncertain the problem, the more the page should route internally before sending the visitor off-site.
 
@@ -491,7 +491,7 @@ A template that says “identify the cause, compare options, choose the best pro
 
 **Burying disclosure.**
 
-Affiliate disclosure should be clear before or near commercial recommendations. FTC guidance stresses that disclosures must be understandable, close to the relevant claim or link, and prominent enough for consumers to notice and process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Affiliate disclosure should be clear before or near commercial recommendations. FTC guidance stresses that disclosures must be understandable, close to the relevant claim or link, and prominent enough for consumers to notice and process. <span class="citation-chip-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A more subtle failure is creating too many near-identical problem pages. For example, separate pages for “how to stop damp in bedroom”, “how to stop damp in small bedroom”, and “how to stop damp in cold bedroom” may become repetitive unless each page has distinct causes, product routes, and advice. At scale, the better pattern is often one strong guide with sections for common scenarios, supported by internal links to genuinely distinct money pages.
 
@@ -627,7 +627,7 @@ For high-volume affiliate website production, the lesson is clear. Do not treat 
 
 5. <a id="endnote-5"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides)  
+   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 6. <a id="endnote-6"></a>
    Source: baymard.com  
@@ -700,7 +700,7 @@ For high-volume affiliate website production, the lesson is clear. Do not treat 
 20. <a id="endnote-20"></a>
    Source: ftc.gov  
    Title: FT C's Endorsement Guides: What People Are Asking | Federal Trade Commission  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 21. <a id="endnote-21"></a>
    Source: developers.google.com  
@@ -789,12 +789,12 @@ For high-volume affiliate website production, the lesson is clear. Do not treat 
 
 40. <a id="endnote-40"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/influencers](https://www.ftc.gov/influencers)  
+   Link: https://www.ftc.gov/influencers  
 
 41. <a id="endnote-41"></a>
    Source: consumer.ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 42. <a id="endnote-42"></a>
    Source: ftc.gov  
@@ -806,11 +806,11 @@ For high-volume affiliate website production, the lesson is clear. Do not treat 
 
 44. <a id="endnote-44"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 45. <a id="endnote-45"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/online-advertising-marketing](https://www.ftc.gov/business-guidance/advertising-marketing/online-advertising-marketing)  
+   Link: https://www.ftc.gov/business-guidance/advertising-marketing/online-advertising-marketing  
 
 46. <a id="endnote-46"></a>
    Source: ftc.gov  

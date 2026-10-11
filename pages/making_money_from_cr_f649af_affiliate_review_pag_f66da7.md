@@ -376,7 +376,7 @@ Trust signals on affiliate review pages are not decorative badges. The strongest
 
 Affiliate disclosure is not just a compliance footnote. It affects whether the reader understands the page’s incentives before acting on the recommendation. The ASA’s UK guidance describes affiliates as secondary advertisers because they earn money in direct proportion to the interest they generate, and says both the business and affiliate can be responsible under the CAP Code. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAOnline Affiliate Marketing</span><span class="citation-popover-snippet">ASA | CAP...</span></span></span>
 
-The FTC’s endorsement guidance is particularly direct for affiliate reviews: if the review disclosure and affiliate link are separated, readers may not connect them; the closer the disclosure is to the recommendation, the better. It also warns that “affiliate link” by itself may not be understood by consumers, while clearer [wording]({{ 'untitled/wording/' | relative_url }}) such as “paid link” next to the link can better communicate the relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The FTC’s endorsement guidance is particularly direct for affiliate reviews: if the review disclosure and affiliate link are separated, readers may not connect them; the closer the disclosure is to the recommendation, the better. It also warns that “affiliate link” by itself may not be understood by consumers, while clearer [wording]({{ 'untitled/wording/' | relative_url }}) such as “paid link” next to the link can better communicate the relationship. <span class="citation-chip-wrap">[Consumer Advice]<span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a review page, that means the disclosure should appear:
 
@@ -571,7 +571,7 @@ The commercial point is straightforward: trustworthy review pages do not weaken 
 
 3. <a id="endnote-3"></a>
    Source: consumer.ftc.gov  
-   Link: [https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  

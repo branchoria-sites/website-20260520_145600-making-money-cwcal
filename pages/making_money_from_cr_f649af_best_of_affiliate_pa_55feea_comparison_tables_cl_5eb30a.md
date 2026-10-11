@@ -602,7 +602,7 @@ usually looks commercially biased.
 
 This is especially risky because affiliate readers already understand the site earns commissions.
 
-Regulatory guidance around endorsements and affiliate disclosures also reinforces the importance of transparency and clarity around commercial relationships. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingJun 29, 2023 — Here are answers to some of the most frequently as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingJun 29, 2023 — Here are answers to some of the most frequently as...</span></span></span>
+Regulatory guidance around endorsements and affiliate disclosures also reinforces the importance of transparency and clarity around commercial relationships. <span class="citation-chip-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingJun 29, 2023 — Here are answers to some of the most frequently as...</span></span></span> <span class="citation-chip-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-title">s endorsement guides what people are asking</span><span class="citation-popover-snippet">Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingJun 29, 2023 — Here are answers to some of the most frequently as...</span></span></span>
 
 Strong tables therefore:
 
@@ -716,12 +716,12 @@ A good comparison table does not simply present information. It organises uncert
 9. <a id="endnote-9"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingJun 29, 2023 — Here are answers to some of the most frequently as...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionEndorsements, Influencers, and ReviewsOne key is to make a good [disclosure](&amp;#123;&amp;#123; &#x27;untitled/disclosure/&#x27; | relative_url &amp;#125;&amp;#125;) of your relationship to the brand...</p></details>
 
 ### Additional References

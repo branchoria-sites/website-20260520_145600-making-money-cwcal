@@ -411,7 +411,7 @@ The key is not to make every page long. It is to make every page earn its existe
 
 Affiliate disclosure is often treated as a compliance detail, but it also affects trust. In the UK, CAP guidance says affiliate marketing must be obviously identifiable as advertising where commercial intent is not otherwise clear, and that both the brand and the affiliate can be responsible under the Code. CAP also advises against relying on unclear shorthand such as “Aff” in isolation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/news/get-yourself-affiliated-with-the-rules-on-affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">Get yourself affiliated with the rules on affiliate marketing</span><span class="citation-popover-snippet">Get yourself affiliated with the rules on affiliate marketing</span></span></span>
 
-For sites with US readers, the FTC’s guidance is also relevant. It says disclosures should be clear and conspicuous, placed close to the recommendation, and understandable to readers. The FTC specifically says that “affiliate link” by itself may not be adequate because consumers may not understand that it means the publisher gets paid for purchases through the link; it says “paid link” next to an affiliate link is more likely to explain the nature of the relationship. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+For sites with US readers, the FTC’s guidance is also relevant. It says disclosures should be clear and conspicuous, placed close to the recommendation, and understandable to readers. The FTC specifically says that “affiliate link” by itself may not be adequate because consumers may not understand that it means the publisher gets paid for purchases through the link; it says “paid link” next to an affiliate link is more likely to explain the nature of the relationship. <span class="citation-chip-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a public-facing website, a practical disclosure might say:
 
@@ -547,7 +547,7 @@ Affiliate websites can still be a practical monetisation model, but only when th
 
 6. <a id="endnote-6"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides)  
+   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
@@ -683,7 +683,7 @@ Affiliate websites can still be a practical monetisation model, but only when th
 34. <a id="endnote-34"></a>
    Source: ftc.gov  
    Title: FT C's Endorsement Guides: What People Are Asking | Federal Trade Commission  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 35. <a id="endnote-35"></a>
    Source: asa.org.uk  
@@ -781,42 +781,42 @@ Affiliate websites can still be a practical monetisation model, but only when th
 
 54. <a id="endnote-54"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
 
 55. <a id="endnote-55"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/influencers](https://www.ftc.gov/influencers)  
+   Link: https://www.ftc.gov/influencers  
 
 56. <a id="endnote-56"></a>
    Source: consumer.ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 57. <a id="endnote-57"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2017/04/ftc-staff-reminds-influencers-brands-clearly-disclose-relationship](https://www.ftc.gov/news-events/news/press-releases/2017/04/ftc-staff-reminds-influencers-brands-clearly-disclose-relationship)  
+   Link: https://www.ftc.gov/news-events/news/press-releases/2017/04/ftc-staff-reminds-influencers-brands-clearly-disclose-relationship  
 
 58. <a id="endnote-58"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers](https://www.ftc.gov/news-events/news/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers)  
+   Link: https://www.ftc.gov/news-events/news/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers  
 
 59. <a id="endnote-59"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers](https://www.ftc.gov/news-events/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers)  
+   Link: https://www.ftc.gov/news-events/press-releases/2019/11/ftc-releases-advertising-disclosures-guidance-online-influencers  
 
 60. <a id="endnote-60"></a>
    Source: bulkorder.ftc.gov  
    Title: disclosures 101 social media influencers  
-   Link: [https://www.bulkorder.ftc.gov/publications/disclosures-101-social-media-influencers](https://www.bulkorder.ftc.gov/publications/disclosures-101-social-media-influencers)  
+   Link: https://www.bulkorder.ftc.gov/publications/disclosures-101-social-media-influencers  
 
 61. <a id="endnote-61"></a>
    Source: consumer.ftc.gov  
    Title: new brochure social media influencers  
-   Link: [https://consumer.ftc.gov/new-brochure-social-media-influencers](https://consumer.ftc.gov/new-brochure-social-media-influencers)  
+   Link: https://consumer.ftc.gov/new-brochure-social-media-influencers  
 
 62. <a id="endnote-62"></a>
    Source: consumer.ftc.gov  
-   Link: [https://consumer.ftc.gov/node/298316](https://consumer.ftc.gov/node/298316)  
+   Link: https://consumer.ftc.gov/node/298316  
 
 63. <a id="endnote-63"></a>
    Source: affiliate-program.amazon.com  
@@ -947,7 +947,7 @@ Affiliate websites can still be a practical monetisation model, but only when th
 
 92. <a id="endnote-92"></a>
    Source: lillianpurge.co.uk  
-   Link: [https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo](https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo)  
+   Link: https://www.lillianpurge.co.uk/do-affiliate-links-hurt-seo  
 
 93. <a id="endnote-93"></a>
    Source: studyres.com  

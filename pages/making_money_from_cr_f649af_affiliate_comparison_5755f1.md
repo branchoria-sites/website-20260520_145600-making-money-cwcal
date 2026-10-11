@@ -377,7 +377,7 @@ A good choose-this-if block is short, specific, and buyer-led:
 
 These blocks do two commercial jobs at once. They improve reader trust because the page is not pretending every product is perfect, and they increase click quality because visitors self-select into the offer that fits them. Click quality matters because [affiliate revenue]({{ 'untitled/revenue-leaks/' | relative_url }}) depends not only on click-through rate but also on merchant conversion, average order value, commission rate, and approval rate.
 
-Choose-this-if blocks also help prevent a common affiliate mistake: recommending the highest-commission product to everyone. That may raise short-term clicks, but it can lower trust, increase returns, and weaken the site’s long-term performance. Regulators and search platforms both create pressure against misleading or thin recommendations. The FTC says affiliate relationships should be disclosed clearly and conspicuously, close to the recommendation where possible, so readers can judge how much weight to give the endorsement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Choose-this-if blocks also help prevent a common affiliate mistake: recommending the highest-commission product to everyone. That may raise short-term clicks, but it can lower trust, increase returns, and weaken the site’s long-term performance. Regulators and search platforms both create pressure against misleading or thin recommendations. The FTC says affiliate relationships should be disclosed clearly and conspicuously, close to the recommendation where possible, so readers can judge how much weight to give the endorsement. <span class="citation-chip-wrap">[Consumer Advice]<span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 ## The comparison table should reduce effort, not display everything
 
@@ -476,7 +476,7 @@ A comparison page can also monetise different outcomes. If Product A is best ove
 
 Affiliate comparison pages need clear disclosure because the commercial relationship is directly tied to the recommendation. In the UK, CAP guidance describes affiliate marketers as secondary advertisers when they earn money in direct proportion to the clicks or sales they generate, and says affiliate marketing must be obviously identifiable as advertising. For blogs and news-style sites, CAP warns that disclosures at the bottom of a post are unlikely to be sufficient where readers encounter affiliate-linked claims earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.asa.org.uk/advice-online/affiliate-marketing.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[ASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">ASAOnline Affiliate Marketing</span><span class="citation-popover-snippet">ASAOnline Affiliate Marketing</span></span></span>
 
-The same principle appears in US FTC guidance. The FTC says affiliate marketers should clearly and conspicuously disclose their relationship to retailers, and that the closer the disclosure is to the recommendation, the better. It also notes that terms such as “affiliate link” may not be clear to all consumers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.ftc.gov">[Consumer Advice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The same principle appears in US FTC guidance. The FTC says affiliate marketers should clearly and conspicuously disclose their relationship to retailers, and that the closer the disclosure is to the recommendation, the better. It also notes that terms such as “affiliate link” may not be clear to all consumers. <span class="citation-chip-wrap">[Consumer Advice]<span class="citation-popover" role="note"><span class="citation-popover-source">consumer.ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For comparison pages, disclosure should be built into the template rather than handled manually after publication. A clear line near the top can explain that the page may earn commission from links and that this does not change the reader’s price. Where individual links are affiliate links, they can also be marked in context. The wording should be plain, not evasive.
 
@@ -574,7 +574,7 @@ For affiliate monetisation, the most valuable comparison pages are not the ones 
 
 7. <a id="endnote-7"></a>
    Source: consumer.ftc.gov  
-   Link: [https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 8. <a id="endnote-8"></a>
    Source: baymard.com  
@@ -594,7 +594,7 @@ For affiliate monetisation, the most valuable comparison pages are not the ones 
 11. <a id="endnote-11"></a>
    Source: ftc.gov  
    Title: FT C's Endorsement Guides: What People Are Asking | Federal Trade Commission  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides)  
+   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 12. <a id="endnote-12"></a>
    Source: developers.google.com  
@@ -632,7 +632,7 @@ For affiliate monetisation, the most valuable comparison pages are not the ones 
 
 20. <a id="endnote-20"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/reviews](https://www.ftc.gov/reviews)  
+   Link: https://www.ftc.gov/reviews  
 
 21. <a id="endnote-21"></a>
    Source: everything.explained.today  
