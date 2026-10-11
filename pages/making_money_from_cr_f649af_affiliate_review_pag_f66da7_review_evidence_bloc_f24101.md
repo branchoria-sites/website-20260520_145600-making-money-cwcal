@@ -612,7 +612,7 @@ Those structures help large affiliate sites maintain believable reviews consiste
 3. <a id="endnote-3"></a>
    Source: ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are Asking29 Jun 2023 — An endorsement must reflect the honest opinion of t...</p></details>
 
 4. <a id="endnote-4"></a>
@@ -640,12 +640,12 @@ Those structures help large affiliate sites maintain believable reviews consiste
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews](https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews)  
+   Link: https://www.ftc.gov/business-guidance/advertising-marketing/endorsements-influencers-reviews  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Endorsements, Influencers, and ReviewsOne key is to make a good [disclosure](&amp;#123;&amp;#123; &#x27;untitled/disclosure/&#x27; | relative_url &amp;#125;&amp;#125;) of your relationship to the brand. This brochure from FTC staf...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing](https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing)  
+   Link: https://www.ftc.gov/legal-library/browse/rules/fair-credit-reporting-act-affiliate-marketing  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Fair Credit Reporting Act: Affiliate MarketingThe.gov means it&#x27;s official. Federal government websites often end in.gov or.mil. Be...</p></details>
 
 10. <a id="endnote-10"></a>

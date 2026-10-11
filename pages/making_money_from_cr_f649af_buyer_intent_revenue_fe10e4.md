@@ -493,7 +493,7 @@ That value is what separates a monetised guide from a thin affiliate doorway. <s
 
 High-intent readers are valuable because they are close to action, but they are also sceptical. They know a recommendation may be influenced by money. Clear disclosure is therefore not a minor compliance detail; it is part of the trust system that allows commercial content to work.
 
-UK ASA guidance says affiliate marketing must be obviously identifiable and that where only some links or content are affiliate-related, the relevant links and connected claims must be clearly marked. It also warns that a disclosure hidden at the bottom of a post may be insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Recognising-ads-Social-Media.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">Recognising ads: Social media and influencer marketing</span><span class="citation-popover-snippet">Recognising ads: Social media and influencer marketing</span></span></span> The FTC gives similar guidance in the US, saying affiliate relationships should be disclosed clearly and conspicuously, close enough to the recommendation that readers can understand the connection before acting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftc.gov">[Federal Trade Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Amazon’s UK Associates agreement also requires participants to state clearly and prominently that they earn from qualifying purchases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon Associates Amazon.co.uk Associates Central</span></span></span>
+UK ASA guidance says affiliate marketing must be obviously identifiable and that where only some links or content are affiliate-related, the relevant links and connected claims must be clearly marked. It also warns that a disclosure hidden at the bottom of a post may be insufficient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.asa.org.uk/Advice-Training-on-the-rules/Advice-Online-Database/Recognising-ads-Social-Media.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asa.org.uk">[asa.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asa.org.uk</span><span class="citation-popover-title">Recognising ads: Social media and influencer marketing</span><span class="citation-popover-snippet">Recognising ads: Social media and influencer marketing</span></span></span> The FTC gives similar guidance in the US, saying affiliate relationships should be disclosed clearly and conspicuously, close enough to the recommendation that readers can understand the connection before acting. <span class="citation-chip-wrap">[Federal Trade Commission]<span class="citation-popover" role="note"><span class="citation-popover-source">ftc.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Amazon’s UK Associates agreement also requires participants to state clearly and prominently that they earn from qualifying purchases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://affiliate-program.amazon.co.uk/help/operating/agreement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: affiliate-program.amazon.co.uk">[Amazon Associates]</a><span class="citation-popover" role="note"><span class="citation-popover-source">affiliate-program.amazon.co.uk</span><span class="citation-popover-title">Amazon Associates Amazon.co.uk Associates Central</span><span class="citation-popover-snippet">Amazon Associates Amazon.co.uk Associates Central</span></span></span>
 
 Research on affiliate disclosures has found persistent gaps. A large empirical study of YouTube and Pinterest affiliate content found that only about one-tenth of affiliate content contained any disclosure, and that users often failed to understand short, non-explanatory disclosures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.00620" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For affiliate websites, the practical lesson is simple: disclosures should be visible, plain, and placed before or near affiliate links, not hidden in a footer.
 
@@ -593,7 +593,7 @@ For affiliate websites built at scale, this is the central rule: build around de
 
 8. <a id="endnote-8"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides)  
+   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides  
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
@@ -819,15 +819,15 @@ For affiliate websites built at scale, this is the central rule: build around de
 56. <a id="endnote-56"></a>
    Source: consumer.ftc.gov  
    Title: s endorsement guides what people are asking  
-   Link: [https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://consumer.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
 
 57. <a id="endnote-57"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/news-events/news/press-releases/2017/04/ftc-staff-reminds-influencers-brands-clearly-disclose-relationship](https://www.ftc.gov/news-events/news/press-releases/2017/04/ftc-staff-reminds-influencers-brands-clearly-disclose-relationship)  
+   Link: https://www.ftc.gov/news-events/news/press-releases/2017/04/ftc-staff-reminds-influencers-brands-clearly-disclose-relationship  
 
 58. <a id="endnote-58"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/influencers](https://www.ftc.gov/influencers)  
+   Link: https://www.ftc.gov/influencers  
 
 59. <a id="endnote-59"></a>
    Source: affiliate-program.amazon.in  

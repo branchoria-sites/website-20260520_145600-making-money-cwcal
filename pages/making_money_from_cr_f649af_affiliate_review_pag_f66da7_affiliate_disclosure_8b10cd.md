@@ -493,7 +493,7 @@ That consistency helps readers recognise the site as transparent and predictable
 
 1. <a id="endnote-1"></a>
    Source: ftc.gov  
-   Link: [https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking](https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking)  
+   Link: https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Trade CommissionFTC&#x27;s Endorsement Guides: What People Are AskingAdvertisers shouldn&#x27;t encourage endorsements using features that...</p></details>
 
 2. <a id="endnote-2"></a>

@@ -646,7 +646,7 @@ The best-performing comparison pages usually feel decisive, narrow, and confiden
 25. <a id="endnote-25"></a>
    Source: seozoom.com  
    Title: google reviews system the algorithm on product reviews  
-   Link: [https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/](https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/)  
+   Link: https://www.seozoom.com/google-reviews-system-the-algorithm-on-product-reviews/  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Reviews System: the algorithm on product reviews17 Apr 2023 — Guide to Reviews system, the Google algorithm evaluating reviews, an...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
